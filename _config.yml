@@ -1,6 +1,6 @@
 name: BigRick
 favicon: null
-layout_spectrum: 0.63089
+layout_spectrum: 0.89548
 typography_spectrum: 0.6612805670592934
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5105172921903431
+  brandStrength: 0.3125
   lightness: 0.7940207340288907
-  saturation: 0.4375
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
