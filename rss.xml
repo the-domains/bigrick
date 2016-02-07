@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BigRick]]></title>
         <description><![CDATA[BigRick]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 17:55:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 18:07:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Review: Metallica delivers sensational Super Bowl eve show]]></title>
+            <description><![CDATA[<article><h1>Review: Metallica delivers sensational Super Bowl eve show</h1><p>Posted: 02/07/2016 01:43:01 AM PST Updated: 02/07/2016 01:43:02 AM PST Metallica, the biggest Bay Area band of all time, would've been the perfect choice to headline the Super Bowl 50 Halftime Show. Yet, the NFL obviously had other ideas, which is why Coldplay, Beyonce and Bruno Mars were scheduled to take the field midway through the championship game on Sunday at Levi's Stadium in Santa Clara.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2b5630a32b835be1f4413003e5a1270ff5ab228.png"></article>]]></description>
+            <link>http://www.mercurynews.com/sports/ci_29487459/review-metallica-delivers-sensational-super-bowl-eve-show?source=top_stories_bar</link>
+            <guid isPermaLink="false">c8f3bb99-c61d-445e-8859-eb6784127e7e</guid>
+            <pubDate>Sun, 07 Feb 2016 18:07:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>alert</p>]]></description>
-            <link>undefinedalert/index.html</link>
+            <link>https://thegrid.ai/bigrick/alert/index.html</link>
             <guid isPermaLink="false">3a58404c-228f-444d-900f-07e49de74dbf</guid>
             <pubDate>Sun, 07 Feb 2016 17:55:42 GMT</pubDate>
         </item>
