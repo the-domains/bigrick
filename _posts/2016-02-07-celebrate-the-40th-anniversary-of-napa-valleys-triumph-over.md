@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://robbreport.com'
   name: 'The Best Luxury Cars, Jets, Yachts, Travel, Watches | Robb Report'
-  favicon: 'http://robbreport.com/sites/all/themes/at_robbreport/favicon.ico'
   domain: robbreport.com
+  url: 'http://robbreport.com'
+  favicon: 'http://robbreport.com/sites/all/themes/at_robbreport/favicon.ico'
 keywords:
   - auberge
   - restaurants
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines'
 title: "Celebrate the 40th Anniversary of Napa Valley's Triumph over French Wines"
-datePublished: '2016-02-07T18:07:27.320Z'
-dateModified: '2016-02-07T17:53:35.016Z'
+datePublished: '2016-02-07T18:51:46.770Z'
+dateModified: '2016-02-07T18:51:41.841Z'
 sourcePath: _posts/2016-02-07-celebrate-the-40th-anniversary-of-napa-valleys-triumph-over.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
