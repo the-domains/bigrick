@@ -1,0 +1,28 @@
+name: BigRick
+favicon: null
+layout_spectrum: 0.4347810728941113
+typography_spectrum: 0.6612805670592934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5105172921903431
+  lightness: 0.7940207340288907
+  saturation: 0.02033167309127748
+  rhythmicContrast: 0.6147751579992473
+purpose: []
