@@ -4,8 +4,15 @@
         <description><![CDATA[BigRick]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 18:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 18:35:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9ecdceb-b393-4116-bcae-9fde62b8d41a.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/bbf3829e-5520-4c76-aa28-e84e455d5887/index.html</link>
+            <guid isPermaLink="false">bbf3829e-5520-4c76-aa28-e84e455d5887</guid>
+            <pubDate>Sun, 07 Feb 2016 18:35:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aceab53a-450c-4347-a4a3-de41fc8300fd.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Celebrate the 40th Anniversary of Napa Valley's Triumph over French Wines</h1><p>Auberge du Soleil is offering a five-course meal and special wine pairings in honor of the historic occasion...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3efbe41d09e470635be7d7ab3d1cf5f798798f65.jpg"></article>]]></description>
             <link>http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines</link>
             <guid isPermaLink="false">90521312-8946-459f-88a7-761c89db6e8a</guid>
-            <pubDate>Sun, 07 Feb 2016 18:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Metallica delivers sensational Super Bowl eve show]]></title>
-            <description><![CDATA[<article><h1>Review: Metallica delivers sensational Super Bowl eve show</h1><p>Posted: 02/07/2016 01:43:01 AM PST Updated: 02/07/2016 01:43:02 AM PST Metallica, the biggest Bay Area band of all time, would've been the perfect choice to headline the Super Bowl 50 Halftime Show. Yet, the NFL obviously had other ideas, which is why Coldplay, Beyonce and Bruno Mars were scheduled to take the field midway through the championship game on Sunday at Levi's Stadium in Santa Clara.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e481860fd52956440cc1ce41d12783bd22e187dc.png"></article>]]></description>
-            <link>http://www.mercurynews.com/sports/ci_29487459/review-metallica-delivers-sensational-super-bowl-eve-show?source=top_stories_bar</link>
-            <guid isPermaLink="false">c8f3bb99-c61d-445e-8859-eb6784127e7e</guid>
             <pubDate>Sun, 07 Feb 2016 18:07:27 GMT</pubDate>
         </item>
     </channel>
