@@ -1,4 +1,4 @@
-name: BigRick
+name: Big Rick Stuart
 favicon: null
 layout_spectrum: 0.41143
 typography_spectrum: 0.6612805670592934
@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73569106-1
   facebook: null
   twitter: null
 opengraph:
