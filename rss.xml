@@ -4,7 +4,7 @@
         <description><![CDATA[BigRick]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 05:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 05:47:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[20 Romantic Things To Do In Wine Country This Valentine's Day]]></title>
@@ -19,6 +19,13 @@
             <link>http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines</link>
             <guid isPermaLink="false">90521312-8946-459f-88a7-761c89db6e8a</guid>
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wine Spectator - Low Membership Price!]]></title>
+            <description><![CDATA[<article><h1>Wine Spectator - Low Membership Price&excl;</h1></article>]]></description>
+            <link>http://www.winespectator.com/blogs/archive/id/402</link>
+            <guid isPermaLink="false">0270fa28-ea53-4912-963e-c63ccc8b6bf1</guid>
+            <pubDate>Mon, 08 Feb 2016 05:46:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wine Spectator: Tapping The Potential Of Wine In Kegs - Shanken News Daily]]></title>
@@ -68,13 +75,6 @@
             <link>http://well.blogs.nytimes.com/2016/01/08/ask-well-health-benefits-of-red-wine-vs-grape-juice/?ref=health&amp;_r=0</link>
             <guid isPermaLink="false">942ffdea-860a-43cc-8ade-b460fc516b55</guid>
             <pubDate>Mon, 08 Feb 2016 05:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tasting notes: The wines of Amber Knolls]]></title>
-            <description><![CDATA[<article><h1>Tasting notes: The wines of Amber Knolls</h1><p>Amber Knolls fruit has mostly been used as a blending component in wines that carry the North Coast or California appellation, according to Andy Beckstoffer. [...] what sorts of wines does Amber Knolls produce?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b158cc392730ff54607d4e3301638b4f546ee4b9.jpg"></article>]]></description>
-            <link>http://www.sfchronicle.com/wine/article/Tasting-notes-The-wines-of-Amber-Knolls-6775035.php</link>
-            <guid isPermaLink="false">efc0fd31-2be8-4fe0-9cbd-3d98f1d9519b</guid>
-            <pubDate>Mon, 08 Feb 2016 04:04:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
