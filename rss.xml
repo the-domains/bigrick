@@ -4,7 +4,7 @@
         <description><![CDATA[BigRick]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 04:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 05:27:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[20 Romantic Things To Do In Wine Country This Valentine's Day]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ask Well: Health Benefits of Red Wine vs. Grape Juice]]></title>
+            <description><![CDATA[<article><h1>Ask Well: Health Benefits of Red Wine vs. Grape Juice</h1><p>A Red wine is probably better for you than grape juice because the fermentation process involved in making wine changes the makeup of the juice, and the skin of the grape, which is loaded with healthful antioxidants, is more likely to be used in the winemaking process, said Dr. Antonia Trichopoulou, a professor and director of the World Health Organization Collaborating Center for Nutrition at the University of Athens School of Medicine in Greece.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/def4f621403d29955a5e2ff276deb05621e14bc4.jpg"></article>]]></description>
+            <link>http://well.blogs.nytimes.com/2016/01/08/ask-well-health-benefits-of-red-wine-vs-grape-juice/?ref=health&amp;_r=0</link>
+            <guid isPermaLink="false">942ffdea-860a-43cc-8ade-b460fc516b55</guid>
+            <pubDate>Mon, 08 Feb 2016 05:26:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tasting notes: The wines of Amber Knolls]]></title>
-            <description><![CDATA[<article><h1>Tasting notes: The wines of Amber Knolls</h1><p>Amber Knolls fruit has mostly been used as a blending component in wines that carry the North Coast or California appellation, according to Andy Beckstoffer. [...] what sorts of wines does Amber Knolls produce?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e431e7ed334d1171ddec1383c2a8be42e4e77377.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tasting notes: The wines of Amber Knolls</h1><p>Amber Knolls fruit has mostly been used as a blending component in wines that carry the North Coast or California appellation, according to Andy Beckstoffer. [...] what sorts of wines does Amber Knolls produce?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b158cc392730ff54607d4e3301638b4f546ee4b9.jpg"></article>]]></description>
             <link>http://www.sfchronicle.com/wine/article/Tasting-notes-The-wines-of-Amber-Knolls-6775035.php</link>
             <guid isPermaLink="false">efc0fd31-2be8-4fe0-9cbd-3d98f1d9519b</guid>
             <pubDate>Mon, 08 Feb 2016 04:04:09 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/88eddaaf-0211-4963-9a3b-7f023e8d7e53/index.html</link>
             <guid isPermaLink="false">88eddaaf-0211-4963-9a3b-7f023e8d7e53</guid>
             <pubDate>Mon, 08 Feb 2016 02:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French winemakers buy Robin Williams's Napa Valley estate - The Boston Globe]]></title>
-            <description><![CDATA[<article><h1>French winemakers buy Robin Williams's Napa Valley estate - The Boston Globe</h1><p>Robin Williams's ranch in Napa, Calif., has sold for $18.1 million to French winemakers Alfred Tesseron and his niece Melanie Tesseron, Top Ten Real Estate Deals has reported. The Tesserons own and operate Château Pontet-Canet, a vineyard and winery in the Bordeaux region of France.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b04ce1f2d1234fc17a13745b10017ae5a283df58.jpg"></article>]]></description>
-            <link>https://www.bostonglobe.com/lifestyle/real-estate/2016/02/05/french-winemakers-buy-robin-williams-napa-valley-estate/EZVMyNfuGJcXY7vv5o5GsO/story.html</link>
-            <guid isPermaLink="false">8009fa48-912e-488c-9963-dff7192c10ca</guid>
-            <pubDate>Mon, 08 Feb 2016 02:44:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
