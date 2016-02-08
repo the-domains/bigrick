@@ -14,8 +14,8 @@ description: 'Ideum has collaborated with JCB Wines to create an entirely new wi
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=973lFBcFcVs'
 title: JCB Interactive Wine Tasting
-datePublished: '2016-02-08T20:23:21.162Z'
-dateModified: '2016-02-08T20:21:18.086Z'
+datePublished: '2016-02-08T20:28:25.652Z'
+dateModified: '2016-02-08T20:28:08.003Z'
 sourcePath: _posts/2016-02-08-jcb-interactive-wine-tasting.md
 published: true
 inFeed: true
