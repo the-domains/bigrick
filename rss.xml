@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hardly Strictly Wine News]]></title>
-        <description><![CDATA[Hardly Strictly Wine News]]></description>
+        <title><![CDATA[Hardly Strictly Wine Blog]]></title>
+        <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 03:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 04:10:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hardly Strictly Wine Blog]]></title>
@@ -26,6 +26,13 @@
             <link>http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines</link>
             <guid isPermaLink="false">90521312-8946-459f-88a7-761c89db6e8a</guid>
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18bc3d60-0abe-4ea8-b4b3-f14972a9f6f9.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/86e2f720-8ec3-4a2e-a6e6-d6686b110d93/index.html</link>
+            <guid isPermaLink="false">86e2f720-8ec3-4a2e-a6e6-d6686b110d93</guid>
+            <pubDate>Thu, 11 Feb 2016 04:05:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Berkeley's Premier Cru paid its tech staffer in wine]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/60eb927d-0a82-4341-a355-72e40b392790/index.html</link>
             <guid isPermaLink="false">60eb927d-0a82-4341-a355-72e40b392790</guid>
             <pubDate>Wed, 10 Feb 2016 20:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask a Somm: How Can I Drink Wine With Girl Scout Cookies?]]></title>
-            <description><![CDATA[<article><h1>Ask a Somm: How Can I Drink Wine With Girl Scout Cookies?</h1><p>Many people think chocolate and red wine go together. I whole-heartedly disagree Cincinnati, Ohio-based wine pro Kevin Hart pairs Brunello at Sotto and Jura at Boca, two of the city's top eateries. But he's also behind consulting service Hart & Cru, which likewise operates as an online wine shop dedicated to small production American and European bottles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e9ca457711ca8fcd0ba779bc9cf8ed2cd230fe6.jpg"></article>]]></description>
-            <link>http://www.eater.com/drinks/2016/2/10/10953536/ask-a-somm-wine-girl-scout-cookies</link>
-            <guid isPermaLink="false">b4da9fa5-01f9-46a1-bc5a-3c4ef47f2385</guid>
-            <pubDate>Wed, 10 Feb 2016 19:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
