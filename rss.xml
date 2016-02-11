@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 04:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 04:49:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hardly Strictly Wine Blog]]></title>
@@ -26,6 +26,13 @@
             <link>http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines</link>
             <guid isPermaLink="false">90521312-8946-459f-88a7-761c89db6e8a</guid>
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="work at JCB Wines in Yountville getting ready to open this weekend &num;WineWednesday https&colon;&sol;&sol;thegrid&period;ai&sol;bigrick&sol;" src="https://pbs.twimg.com/media/Ca59wj8UMAEmCDE.jpg:large">]]></description>
+            <link>https://twitter.com/KFOX_XLDJ/status/697633266224857088</link>
+            <guid isPermaLink="false">23bae54b-6d16-4195-9062-039f9f47b56c</guid>
+            <pubDate>Thu, 11 Feb 2016 04:46:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.multivu.com/players/English/7759151-vegas-uncork-d-by-bon-appetit/</link>
             <guid isPermaLink="false">7fbd0df1-26d6-42a6-a277-610f5e766fd6</guid>
             <pubDate>Wed, 10 Feb 2016 20:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cassie at Bouchon]]></title>
-            <description><![CDATA[<article><h1>Cassie at Bouchon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08be9e1a4c33c7b4cf028c296c3c97732fe182a3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bigrick/60eb927d-0a82-4341-a355-72e40b392790/index.html</link>
-            <guid isPermaLink="false">60eb927d-0a82-4341-a355-72e40b392790</guid>
-            <pubDate>Wed, 10 Feb 2016 20:11:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
