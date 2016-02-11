@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T05:40:41.410Z'
-dateModified: '2016-02-11T05:40:37.669Z'
+datePublished: '2016-02-11T05:42:52.392Z'
+dateModified: '2016-02-11T05:42:47.853Z'
 title: Hardly Strictly Wine Blog
 author: []
 sourcePath: _posts/2016-02-11-welcome-to-the-hardly-strictly-wine-blog.md
