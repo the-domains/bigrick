@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T07:48:35.380Z'
-dateModified: '2016-02-11T07:48:29.185Z'
-title: Hardly Strictly Wine Blog
+datePublished: '2016-02-11T07:54:37.082Z'
+dateModified: '2016-02-11T07:54:30.521Z'
+title: info Rick@BigRick.com
 author: []
 sourcePath: _posts/2016-02-11-hardly-strictly-wine-blog.md
 published: true
@@ -22,8 +22,6 @@ url: hardly-strictly-wine-blog/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c7a37dcc6dc28f4c1b9cc360909427928a6712.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8952f5bd-581e-403a-bd06-19894c1cb39c.jpg)
 
-# Hardly Strictly Wine Blog
-
-# Rick@BigRick.com
+# info Rick@BigRick.com
