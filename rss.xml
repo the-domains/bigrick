@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 16:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 16:05:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[20 Romantic Things To Do In Wine Country This Valentine's Day]]></title>
@@ -19,6 +19,13 @@
             <link>http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines</link>
             <guid isPermaLink="false">90521312-8946-459f-88a7-761c89db6e8a</guid>
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Basalt heading to downtown Napa's shuttered Fish Story space]]></title>
+            <description><![CDATA[<article><h1>Basalt heading to downtown Napa's shuttered Fish Story space</h1><p>Looking forward to this! I love Redd and Redd Wood!</p><img src="http://insidescoopsf.sfgate.com/files/2010/10/limonrot2.jpg"></article>]]></description>
+            <link>http://insidescoopsf.sfgate.com/blog/2016/02/12/basalt-heading-to-downtown-napas-shuttered-fish-story-space/</link>
+            <guid isPermaLink="false">e7825e1b-775c-4d1c-b604-799500918dcf</guid>
+            <pubDate>Sat, 13 Feb 2016 16:03:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why You Should Drink Alcohol on a Diet]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/e6eedaf7-73b3-49ac-a67c-9a10ce1a3565/index.html</link>
             <guid isPermaLink="false">e6eedaf7-73b3-49ac-a67c-9a10ce1a3565</guid>
             <pubDate>Fri, 12 Feb 2016 08:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Thanks for checking out the Hardly Strictly Wine Blog!</p>]]></description>
-            <link>https://thegrid.ai/bigrick/a5d4dcfc-49b0-44c3-8d14-f23ae39b2bab/index.html</link>
-            <guid isPermaLink="false">a5d4dcfc-49b0-44c3-8d14-f23ae39b2bab</guid>
-            <pubDate>Fri, 12 Feb 2016 04:12:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
