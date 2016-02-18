@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 01:10:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Celebrate the 40th Anniversary of Napa Valley's Triumph over French Wines]]></title>
@@ -12,6 +12,13 @@
             <link>http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines</link>
             <guid isPermaLink="false">90521312-8946-459f-88a7-761c89db6e8a</guid>
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/771f7a44-e306-48af-ac7f-000cb4080b9c.JPG">]]></description>
+            <link>https://thegrid.ai/bigrick/6efda530-e064-490e-b26f-bc7bbb608f91/index.html</link>
+            <guid isPermaLink="false">6efda530-e064-490e-b26f-bc7bbb608f91</guid>
+            <pubDate>Thu, 18 Feb 2016 01:09:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Press Room | James Beard Foundation]]></title>
@@ -68,13 +75,6 @@
             <link>http://cdn.mercurymagazines.com/300-30011/index.html</link>
             <guid isPermaLink="false">0d63b95c-a1fa-4cbd-91f9-c82ea0685cae</guid>
             <pubDate>Mon, 15 Feb 2016 16:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 Days-plus in Santa Barbara County]]></title>
-            <description><![CDATA[<article><h1>8 Days-plus in Santa Barbara County</h1><p>As previously mentioned, some readers asked me to compile some of my Instagram photos from intensive regional visits here for easier access. This last week I made a three-day return to Santa Barbara County to do follow-up visits with a few producers I have had on going conversations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2c0911b086ba9f8bc2e9d402e5729eeccb83263.jpg"></article>]]></description>
-            <link>http://wakawakawinereviews.com/2016/02/11/8-days-plus-in-santa-barbara-county/</link>
-            <guid isPermaLink="false">0f3f40e0-3361-4a6c-9d03-03a2262af794</guid>
-            <pubDate>Mon, 15 Feb 2016 07:38:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
