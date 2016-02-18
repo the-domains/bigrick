@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 00:44:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Celebrate the 40th Anniversary of Napa Valley's Triumph over French Wines]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A blind tasting of Mt. Veeder</p>]]></description>
+            <link>https://thegrid.ai/bigrick/45e10f68-d11b-416e-98a1-fdf93481561c/index.html</link>
+            <guid isPermaLink="false">45e10f68-d11b-416e-98a1-fdf93481561c</guid>
+            <pubDate>Thu, 18 Feb 2016 00:44:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Maker's Table]]></title>
-            <description><![CDATA[<article><h1>Maker's Table</h1><p>Pinot Noir cluster in a Dundee Hills vineyard (July 2014) I have a special fondness for old-fangled winemaking, and for winemakers who work their craft by hand. (Or mostly by hand, because it helps to have a truck and a forklift.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00d5c5b5fc4ddc30b33df6847a7cb6146c6b1f4f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Maker's Table</h1><p>Pinot Noir cluster in a Dundee Hills vineyard (July 2014) I have a special fondness for old-fangled winemaking, and for winemakers who work their craft by hand. (Or mostly by hand, because it helps to have a truck and a forklift.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/561571a8f3dfe7e72d1d206c5cfb3006674763a9.jpg"></article>]]></description>
             <link>http://www.makerstable.com/2016/02/oregon-pinot-noir-sustainably-made.html</link>
             <guid isPermaLink="false">db711840-3db1-4721-afca-b8653522e0bb</guid>
             <pubDate>Thu, 18 Feb 2016 00:38:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/7bf77bfb-3798-4815-8673-0dfe0c4b27fd/index.html</link>
             <guid isPermaLink="false">7bf77bfb-3798-4815-8673-0dfe0c4b27fd</guid>
             <pubDate>Sun, 14 Feb 2016 02:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 Secrets to Scoring Wine Deals at Costco]]></title>
-            <description><![CDATA[<article><h1>8 Secrets to Scoring Wine Deals at Costco</h1><p>I contributed the following story to TheDailyMeal.com. This is a good overview on things to keep in mind whenever you are buying wine, or many other things, at Costco.]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bb9b46e549dc9ad2abb5b32a2a39388bf9dd566.jpg"></article>]]></description>
-            <link>http://costcowineblog.com/8-secrets-to-scoring-wine-deals-at-costco/</link>
-            <guid isPermaLink="false">095d5eee-5c5c-4be8-9bfa-6a649c16ad58</guid>
-            <pubDate>Sat, 13 Feb 2016 21:54:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
