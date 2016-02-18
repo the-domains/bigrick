@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 01:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 18:35:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Celebrate the 40th Anniversary of Napa Valley's Triumph over French Wines]]></title>
@@ -12,6 +12,13 @@
             <link>http://robbreport.com/fine-dining/celebrate-40th-anniversary-napa-valleys-triumph-over-french-wines</link>
             <guid isPermaLink="false">90521312-8946-459f-88a7-761c89db6e8a</guid>
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gray Report]]></title>
+            <description><![CDATA[<article><h1>The Gray Report</h1><p>My wife made the decision; it is her fault that I must drink mostly Malbec for a month. I visit Europe all the time as the essential perk of writing about wine. She only gets one vacation per year. So while we both kick out options for our annual vacation together, she gets to decide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40a68230e9f1be7d894ed266953b715c104130d5.jpg"></article>]]></description>
+            <link>http://blog.wblakegray.com/2016/02/my-month-of-malbec-diary.html</link>
+            <guid isPermaLink="false">b964d286-ac3a-4d6e-bf8a-f02d91639427</guid>
+            <pubDate>Thu, 18 Feb 2016 18:34:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.jancisrobinson.com/articles/bordeaux-2012-some-nice-surprises</link>
             <guid isPermaLink="false">26f2eb54-9df7-48a6-abdc-e13a804a55dc</guid>
             <pubDate>Tue, 16 Feb 2016 04:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mercury Magazines - Get Started!]]></title>
-            <description><![CDATA[<article><h1>Mercury Magazines - Get Started!</h1><p>Get Wine Enthusiast for FREE!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3f7b24d8d6e52c0d64054d49afb9a2a9ba7a4fb.jpg"></article>]]></description>
-            <link>http://cdn.mercurymagazines.com/300-30011/index.html</link>
-            <guid isPermaLink="false">0d63b95c-a1fa-4cbd-91f9-c82ea0685cae</guid>
-            <pubDate>Mon, 15 Feb 2016 16:09:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
