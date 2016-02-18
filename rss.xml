@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 00:34:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Celebrate the 40th Anniversary of Napa Valley's Triumph over French Wines]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 07 Feb 2016 18:51:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Wine Economist]]></title>
+            <description><![CDATA[<article><h1>The Wine Economist</h1><p>(by Mike Veseth)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6c741cd275b6b8ca876682b52e75db7/croprotate.jpg?cropheight=200&cropwidth=200&degrees=0&input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&x=0&y=0"></article>]]></description>
+            <link>http://wineeconomist.com/</link>
+            <guid isPermaLink="false">f29179b4-397d-4cfd-9132-b65aadfdb802</guid>
+            <pubDate>Thu, 18 Feb 2016 00:34:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dry Creek Valley - On Tour 2016]]></title>
-            <description><![CDATA[<article><h1>Dry Creek Valley - On Tour 2016</h1><p>wineLA.com, wine classes, los angeles wine tasting, wine events, wine education, credential program, shopping</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb6316a94cc853464ebd7fa443b5cd7b1c833bf8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dry Creek Valley - On Tour 2016</h1><p>wineLA.com, wine classes, los angeles wine tasting, wine events, wine education, credential program, shopping</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c459b6f40b975632ddafce83bf5d34c3a2acf040.jpg"></article>]]></description>
             <link>http://www.winela.com/dcv</link>
             <guid isPermaLink="false">1e7ba443-97f5-4264-9a4d-a911a8ff4ce7</guid>
             <pubDate>Thu, 18 Feb 2016 00:32:26 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://costcowineblog.com/8-secrets-to-scoring-wine-deals-at-costco/</link>
             <guid isPermaLink="false">095d5eee-5c5c-4be8-9bfa-6a649c16ad58</guid>
             <pubDate>Sat, 13 Feb 2016 21:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Painless Getaway at Calistoga's Therapeutic Mud-Bath Spas]]></title>
-            <description><![CDATA[<article><h1>A Painless Getaway at Calistoga's Therapeutic Mud-Bath Spas</h1><p>News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services. The northern California town of Calistoga has a long tradition of ache-relieving mud baths-a bit of filthy fun that's good for you IN THE BEGINNING, there was mud. And geothermal water.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26db6830d275b3159450586b03ee2ed2a8509e2a.jpg"></article>]]></description>
-            <link>http://www.wsj.com/articles/a-painless-getaway-at-calistogas-therapeutic-mud-bath-spas-1453922538</link>
-            <guid isPermaLink="false">a7da670a-1bbb-482d-a4a8-f57694d588fa</guid>
-            <pubDate>Sat, 13 Feb 2016 16:16:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
