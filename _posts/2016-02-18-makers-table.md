@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.makerstable.com/2016/02/oregon-pinot-noir-sustainably-made.html'
 title: "Maker's Table"
-datePublished: '2016-02-18T00:28:50.197Z'
-dateModified: '2016-02-18T00:24:55.072Z'
+datePublished: '2016-02-18T00:38:42.547Z'
+dateModified: '2016-02-18T00:38:09.470Z'
 sourcePath: _posts/2016-02-18-makers-table.md
 published: true
 inFeed: true
