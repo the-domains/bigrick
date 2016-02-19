@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 04:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 18:33:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will Drones Become the Toast of Napa?]]></title>
+            <description><![CDATA[<article><h1>Will Drones Become the Toast of Napa?</h1><p>For generations, Napa Valley growers have used workers on foot or tractors to apply nutrients and pesticides to the vines that produce grapes used in some of America's most storied wines. Now Japan's Yamaha Motor thinks it has a better way: drones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af044163795cb5a9486d609ec3f8d1197605640f.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-02-18/in-napa-crop-dusting-drones-are-ready-for-takeoff</link>
+            <guid isPermaLink="false">5faa9ff6-fb69-490d-9a6c-76460813b718</guid>
+            <pubDate>Fri, 19 Feb 2016 18:32:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Cheers&excl; &num;nationaldrinkwineday &num;tbt &commat;normanvanaken" src="https://pbs.twimg.com/media/Cbi3Hw6UAAAIv8C.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/6efda530-e064-490e-b26f-bc7bbb608f91/index.html</link>
             <guid isPermaLink="false">6efda530-e064-490e-b26f-bc7bbb608f91</guid>
             <pubDate>Thu, 18 Feb 2016 01:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Press Room | James Beard Foundation]]></title>
-            <description><![CDATA[<article><h1>Press Room | James Beard Foundation</h1><p>James Beard Semifinalists announced</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2e1ac112c23850b8d07aec2a170bd81c143e2b5.png"></article>]]></description>
-            <link>http://www.jamesbeard.org/awards/press-room</link>
-            <guid isPermaLink="false">33128f0a-99de-48da-855c-97bdd888d907</guid>
-            <pubDate>Thu, 18 Feb 2016 00:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
