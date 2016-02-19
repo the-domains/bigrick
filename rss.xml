@@ -4,11 +4,18 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 18:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 19:04:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cheap wine: What do I expect?]]></title>
+            <description><![CDATA[<article><h1>Cheap wine: What do I expect?</h1><p>A visitor left a comment the other day in the first $3 wine challenge post: "Hey, it cost less than $3. So what did you expect?" Hence this post, because even though a cheap wine doesn't cost much, that doesn't mean it has to taste cheap: * Varietal correctness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1625253a5bb5e3f3b1bd58c8bce964ebf210351a.png"></article>]]></description>
+            <link>http://winecurmudgeon.com/cheap-wine-what-do-i-expect/</link>
+            <guid isPermaLink="false">565cea84-b35b-42d5-a5db-14c0120c4d45</guid>
+            <pubDate>Fri, 19 Feb 2016 19:04:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will Drones Become the Toast of Napa?]]></title>
-            <description><![CDATA[<article><h1>Will Drones Become the Toast of Napa?</h1><p>For generations, Napa Valley growers have used workers on foot or tractors to apply nutrients and pesticides to the vines that produce grapes used in some of America's most storied wines. Now Japan's Yamaha Motor thinks it has a better way: drones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af044163795cb5a9486d609ec3f8d1197605640f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Will Drones Become the Toast of Napa?</h1><p>For generations, Napa Valley growers have used workers on foot or tractors to apply nutrients and pesticides to the vines that produce grapes used in some of America's most storied wines. Now Japan's Yamaha Motor thinks it has a better way: drones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2f36260fd011db26f905259f7a61b6400834184.jpg"></article>]]></description>
             <link>http://www.bloomberg.com/news/articles/2016-02-18/in-napa-crop-dusting-drones-are-ready-for-takeoff</link>
             <guid isPermaLink="false">5faa9ff6-fb69-490d-9a6c-76460813b718</guid>
             <pubDate>Fri, 19 Feb 2016 18:32:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.wblakegray.com/2016/02/my-month-of-malbec-diary.html</link>
             <guid isPermaLink="false">b964d286-ac3a-4d6e-bf8a-f02d91639427</guid>
             <pubDate>Thu, 18 Feb 2016 18:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/771f7a44-e306-48af-ac7f-000cb4080b9c.JPG">]]></description>
-            <link>https://thegrid.ai/bigrick/6efda530-e064-490e-b26f-bc7bbb608f91/index.html</link>
-            <guid isPermaLink="false">6efda530-e064-490e-b26f-bc7bbb608f91</guid>
-            <pubDate>Thu, 18 Feb 2016 01:09:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
