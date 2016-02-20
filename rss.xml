@@ -4,11 +4,18 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 01:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 18:10:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Events - California Wines]]></title>
+            <description><![CDATA[<article><h1>Events - California Wines</h1><p>Saturday events include an Educational Session, food/wine pairing demonstration, Grand Tasting at Mendocino County Fairgrounds, and Winemakers Dinner at Scharffenberger Cellars. Sunday winery open houses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b721547e3f20b6287b414bc8a5e01fd0638830c6.jpg"></article>]]></description>
+            <link>http://www.discovercaliforniawines.com/events/</link>
+            <guid isPermaLink="false">f243833a-9611-4856-8783-6f0cc6c4f93f</guid>
+            <pubDate>Sat, 20 Feb 2016 18:10:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sonoma Meets SoCal: Dry Creek Wines Event]]></title>
-            <description><![CDATA[<article><h1>Sonoma Meets SoCal: Dry Creek Wines Event</h1><p>THERE ARE MORE PORTS THAN PORTHOLES... in wine country, we can safely say, but there isn't a winery fan around who doesn't wish for a magical doorway from time to time, one that connects their city with a beautiful wine country several hours away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55e09a85512c004a6402f1eab5148ceb6443c447.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sonoma Meets SoCal: Dry Creek Wines Event</h1><p>THERE ARE MORE PORTS THAN PORTHOLES... in wine country, we can safely say, but there isn't a winery fan around who doesn't wish for a magical doorway from time to time, one that connects their city with a beautiful wine country several hours away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b14e01b892cf9c23b84a55aab6edc4eb69937e71.jpg"></article>]]></description>
             <link>http://www.nbclosangeles.com/blogs/worth-the-drive/Sonoma-Meets-SoCal-Dry-Creek-Wines-Event-369136831.html</link>
             <guid isPermaLink="false">578ec0ae-869c-40c6-b16c-3ba209d9f4ef</guid>
             <pubDate>Sat, 20 Feb 2016 01:49:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.contracostatimes.com/breaking-news/ci_29529256/premier-cru-wine-purveyor-potentially-pleading-fifth-bankruptcy</link>
             <guid isPermaLink="false">b76bc31f-eb18-44b7-9a66-e59a3c7c5298</guid>
             <pubDate>Thu, 18 Feb 2016 19:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Napa gives go-ahead for Stanly Ranch luxury hotel]]></title>
-            <description><![CDATA[<article><h1>Napa gives go-ahead for Stanly Ranch luxury hotel</h1><p>Six years after Napa first approved plans for a resort and housing development for the rural Stanly Ranch area, work on its first element - a 150-room luxury hotel - has been cleared to begin. Tuesday night, the City Council approved the hotel project floated by Auberge Resorts, which already operates two high-end lodgings Upvalley.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8c8407578416fca2bff0e295d71b8c3fa1e2b72.jpg"></article>]]></description>
-            <link>http://napavalleyregister.com/news/local/napa-gives-go-ahead-for-stanly-ranch-luxury-hotel/article_ab192397-7d09-581f-b65f-f4289d24df53.html</link>
-            <guid isPermaLink="false">2a16c731-1801-4ec1-a4f0-3b190e660a71</guid>
-            <pubDate>Thu, 18 Feb 2016 18:34:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
