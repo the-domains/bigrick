@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.discovercaliforniawines.com/events/'
 title: Events - California Wines
-datePublished: '2016-02-20T18:10:39.103Z'
-dateModified: '2016-02-20T17:48:18.567Z'
+datePublished: '2016-02-20T19:21:48.414Z'
+dateModified: '2016-02-20T19:21:05.809Z'
 sourcePath: _posts/2016-02-20-events-california-wines.md
 published: true
 inFeed: true
