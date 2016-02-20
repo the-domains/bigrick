@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 18:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 18:12:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The wines of Paso Robles in Tasting Notes]]></title>
+            <description><![CDATA[<article><h1>The wines of Paso Robles in Tasting Notes</h1><p>walking Ambythe Estate w Phillip Hart, July 2015 While the history of Paso Robles wine sits with Zinfandel and its associated hearty red varieties, such as Petite Sirah, its contemporary fame begins with Cabernet Sauvignon established in large plantings from the 1960s through the 1980s, and turns more recently to the varieties of the Rhône.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2c0911b086ba9f8bc2e9d402e5729eeccb83263.jpg"></article>]]></description>
+            <link>http://wakawakawinereviews.com/2016/02/18/the-wines-of-paso-robles-in-tasting-notes/</link>
+            <guid isPermaLink="false">3c26ca93-b5e2-479a-9949-baa75b3734e5</guid>
+            <pubDate>Sat, 20 Feb 2016 18:11:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Events - California Wines]]></title>
             <description><![CDATA[<article><h1>Events - California Wines</h1><p>Saturday events include an Educational Session, food/wine pairing demonstration, Grand Tasting at Mendocino County Fairgrounds, and Winemakers Dinner at Scharffenberger Cellars. Sunday winery open houses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b721547e3f20b6287b414bc8a5e01fd0638830c6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.summitdaily.com/news/20679827-113/wine-ink-column-sonoma-or-napa-a-sublime</link>
             <guid isPermaLink="false">4aafaba0-d4f5-4719-9aff-ae359625848d</guid>
             <pubDate>Thu, 18 Feb 2016 20:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premier Cru: Berkeley wine purveyor potentially pleading the Fifth in bankruptcy]]></title>
-            <description><![CDATA[<article><h1>Premier Cru: Berkeley wine purveyor potentially pleading the Fifth in bankruptcy</h1><p>Posted: 02/17/2016 06:00:04 PM PST Updated: 02/17/2016 06:05:53 PM PST BERKELEY -- John Fox, the owner of embattled Berkeley fine wine business Premier Cru, may invoke his Fifth Amendment Constitutional right not to incriminate himself, which could delay his personal bankruptcy, his attorney said Wednesday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/423061a3be68d04e20101fead39d03040bfe1810.png"></article>]]></description>
-            <link>http://www.contracostatimes.com/breaking-news/ci_29529256/premier-cru-wine-purveyor-potentially-pleading-fifth-bankruptcy</link>
-            <guid isPermaLink="false">b76bc31f-eb18-44b7-9a66-e59a3c7c5298</guid>
-            <pubDate>Thu, 18 Feb 2016 19:11:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
