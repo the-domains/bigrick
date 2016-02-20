@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://grapecollective.com/articles/mendoza-the-home-of-malbec'
 title: Mendoza the home of Malbec
-datePublished: '2016-02-20T18:12:11.607Z'
-dateModified: '2016-02-20T17:49:16.058Z'
+datePublished: '2016-02-20T19:02:45.041Z'
+dateModified: '2016-02-20T18:50:15.803Z'
 sourcePath: _posts/2016-02-20-mendoza-the-home-of-malbec.md
 published: true
 inFeed: true
