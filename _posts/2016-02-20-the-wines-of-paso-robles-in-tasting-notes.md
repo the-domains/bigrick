@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://wakawakawinereviews.com/2016/02/18/the-wines-of-paso-robles-in-tasting-notes/'
 title: The wines of Paso Robles in Tasting Notes
-datePublished: '2016-02-20T18:11:02.506Z'
-dateModified: '2016-02-20T17:48:28.520Z'
+datePublished: '2016-02-20T18:11:46.901Z'
+dateModified: '2016-02-20T17:41:58.552Z'
 sourcePath: _posts/2016-02-20-the-wines-of-paso-robles-in-tasting-notes.md
 published: true
 inFeed: true
