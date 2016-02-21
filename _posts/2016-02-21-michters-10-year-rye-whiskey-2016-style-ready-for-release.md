@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thewhiskeywash.com/2016/02/10/michters-10-year-rye-2016/'
 title: "Michter's 10 Year Rye Whiskey, 2016 Style, Ready For Release - The Whiskey Wash"
-datePublished: '2016-02-21T19:36:53.667Z'
-dateModified: '2016-02-21T19:36:16.546Z'
+datePublished: '2016-02-21T19:56:33.842Z'
+dateModified: '2016-02-21T19:56:02.810Z'
 sourcePath: _posts/2016-02-21-michters-10-year-rye-whiskey-2016-style-ready-for-release.md
 published: true
 inFeed: true
