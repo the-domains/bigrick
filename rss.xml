@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 05:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 05:15:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://www.bizjournals.com/sanfrancisco/blog/2016/02/premier-cru-ordered-to-turn-over-secret-computer.html</link>
+            <guid isPermaLink="false">77306f20-43a2-4846-ba9a-e94383595ff6</guid>
+            <pubDate>Mon, 22 Feb 2016 05:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.discovercaliforniawines.com/gold-medal-weekend/?t=print</link>
             <guid isPermaLink="false">3d263c24-ead5-4986-b1f9-628cf8190d12</guid>
             <pubDate>Sat, 20 Feb 2016 19:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Events - California Wines]]></title>
-            <description><![CDATA[<article><h1>Events - California Wines</h1><p>Saturday events include an Educational Session, food/wine pairing demonstration, Grand Tasting at Mendocino County Fairgrounds, and Winemakers Dinner at Scharffenberger Cellars. Sunday winery open houses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57c9dd6ef7f42d0b7b440c71a8ee00c801aa94b5.jpg"></article>]]></description>
-            <link>http://www.discovercaliforniawines.com/events/</link>
-            <guid isPermaLink="false">68ce66b0-24aa-4c29-b38a-7811d95a8601</guid>
-            <pubDate>Sat, 20 Feb 2016 19:21:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
