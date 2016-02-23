@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 17:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 17:49:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Business Lessons From A Napa Wine Legend]]></title>
+            <description><![CDATA[<article><h1>Business Lessons From A Napa Wine Legend</h1><p>Recently, I had the privilege of meeting Michael Mondavi, a luminary in the wine business whose family name has graced some of the most highly acclaimed and widely consumed bottles ever produced.</p><img src="http://blogs-images.forbes.com/joeharpaz/files/2016/02/mondavi.png"></article>]]></description>
+            <link>http://www.forbes.com/sites/joeharpaz/2016/02/23/business-lessons-from-a-napa-wine-legend/#11dcbbe2358e</link>
+            <guid isPermaLink="false">b871594e-4d4c-4fc1-b29e-ab4392d1d151</guid>
+            <pubDate>Tue, 23 Feb 2016 17:47:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pinot vs. cabernet: Sonoma County balance shifts]]></title>
             <description><![CDATA[<article><h1>Pinot vs. cabernet: Sonoma County balance shifts</h1><p>In the world of wine, there are two kinds of red wine drinkers: Those who believe there is no red wine other than cabernet sauvignon; and those more sensible wine drinkers who admit that cabernet is fine, but if you want a good glass of red wine, try pinot noir.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46f959fe967fa337acd1ad4ac081ca2b5415b2a1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thewhiskeywash.com/2016/02/10/michters-10-year-rye-2016/</link>
             <guid isPermaLink="false">3f5d4448-e7f2-4594-9d76-6d23d0c0aceb</guid>
             <pubDate>Sun, 21 Feb 2016 19:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ideas to create engaging online content]]></title>
-            <description><![CDATA[<article><h1>Ideas to create engaging online content</h1><p>February 18, 2016 | eCommerce , Marketing | Lona Rudd Social media marketing may once have reigned, but it seems creating engaging content is the method of choice for advertisers these days. According a poll by Smart Insights, 29 percent of those surveyed said content marketing was the most important online business trend of 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f06c862eb3701bf7c74f70170da977fd8291fc0.png"></article>]]></description>
-            <link>http://www.winedirect.com/blog/Ideas-to-create-engaging-online-content</link>
-            <guid isPermaLink="false">7b902a2e-1ee3-442c-a781-0d4ec6bf7feb</guid>
-            <pubDate>Sun, 21 Feb 2016 19:54:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
