@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 04:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 04:04:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>thought I was trippin but apparently everyone on Twitter felt that earthquake</p>]]></description>
+            <link>https://twitter.com/HannMontann/status/703064487788544003</link>
+            <guid isPermaLink="false">984b0a51-220f-496b-b998-03bb6a0b41b9</guid>
+            <pubDate>Fri, 26 Feb 2016 04:03:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I survived the 2.7 earthquake</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://video.winespectator.com/play/id/4159168979001/name/Napa_Krug_Mondavi?utm_medium=email&amp;utm_source=Video-Eletter-2-25-16_A&amp;utm_campaign=Eletter022516</link>
             <guid isPermaLink="false">477778c1-5207-42b7-aa19-3c6b6df9dac1</guid>
             <pubDate>Thu, 25 Feb 2016 19:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foodie Art Tour | Art Smart]]></title>
-            <description><![CDATA[<article><h1>Foodie Art Tour | Art Smart</h1><p>Art Smart's latest tour creation, blends the love of food and art on a guided, private tour through The Metropolitan Museum of Art. Feast Your Eyes looks at food in paintings and sculpture throughout history and across cultures. Our personalized and curated art experiences seek out what really gets people engaged with art.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cebf312cc7735cd1a97ca5c0abae0a88a33e161.jpg"></article>]]></description>
-            <link>https://www.artsmart.com/foodie-art-tour/</link>
-            <guid isPermaLink="false">c6becbec-e34b-46c9-b298-563f30d1df48</guid>
-            <pubDate>Thu, 25 Feb 2016 19:28:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
