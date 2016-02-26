@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 18:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 18:29:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06935601-1b07-4107-a6a2-3c3cb222b6a4.JPG">]]></description>
+            <link>https://thegrid.ai/bigrick/ea8e1245-7ce2-4d56-a5ed-4e43115ba449/index.html</link>
+            <guid isPermaLink="false">ea8e1245-7ce2-4d56-a5ed-4e43115ba449</guid>
+            <pubDate>Fri, 26 Feb 2016 18:27:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Become A Wine God - Life Tips.]]></title>
             <description><![CDATA[<article><h1>Become A Wine God - Life Tips.</h1><p>How to drink wine like Yo-Yo Ma hears music. Now, I could shoehorn the steps of wine enjoyment into a drab acronym, but that would be like every other wine article out there, and likely put you to sleep. So instead, let me tell you a story.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889509a3c4af1b69ca4623eecbd6956764548fee.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://earthquake.usgs.gov/earthquakes/eventpage/nc72598070#general_region</link>
             <guid isPermaLink="false">991f8f71-8839-4513-a141-26a51856e2c0</guid>
             <pubDate>Fri, 26 Feb 2016 04:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>how did this lil ass 2.7 earthquake make my entire table move thats not even enough to make an empty water bottle fall over</p>]]></description>
-            <link>https://twitter.com/mscrazyjno/status/703065912820150272</link>
-            <guid isPermaLink="false">749aab15-58ec-425e-b8e2-c693407f5c5c</guid>
-            <pubDate>Fri, 26 Feb 2016 04:06:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
