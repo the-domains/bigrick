@@ -4,15 +4,8 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 04:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 04:06:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[M2.7 - 6km SW of Yountville, California]]></title>
-            <description><![CDATA[<article><h1>M2.7 - 6km SW of Yountville, California</h1><p>USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards</p></article>]]></description>
-            <link>http://earthquake.usgs.gov/earthquakes/eventpage/nc72598070#general_region</link>
-            <guid isPermaLink="false">991f8f71-8839-4513-a141-26a51856e2c0</guid>
-            <pubDate>Fri, 26 Feb 2016 04:07:33 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>how did this lil ass 2.7 earthquake make my entire table move thats not even enough to make an empty water bottle fall over</p>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>At Thomas Keller's Per Se, Slips and Stumbles</h1><p>The lady had dropped her napkin. More accurately, she had hurled it to the floor in a fit of disillusionment, her small protest against the slow creep of mediocrity and missed cues during a four-hour dinner at Per Se that would cost the four of us close to $3,000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b86303105bf4e75075fe3210d1d1d7e264e3213.jpg"></article>]]></description>
             <link>http://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html?_r=1</link>
             <guid isPermaLink="false">210005bc-d878-4643-83e5-d338d1bdad4f</guid>
+            <pubDate>Thu, 25 Feb 2016 19:40:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thomas Keller - Message to Our Guests]]></title>
+            <description><![CDATA[<article><h1>Thomas Keller - Message to Our Guests</h1><p>Thomas Keller is chef and proprietor of The French Laundry, Per Se, Bouchon, Bar Bouchon, Bouchon Bakery, and Ad Hoc. He has authored five cookbooks inspired by his restaurants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3f3c37c5f38b40e71bd3d9b56d5fd65971a932f.jpg"></article>]]></description>
+            <link>http://www.thomaskeller.com/messagetoourguests</link>
+            <guid isPermaLink="false">d99c1a4b-1844-486d-ad02-3ccbd37b7cf6</guid>
             <pubDate>Thu, 25 Feb 2016 19:40:27 GMT</pubDate>
         </item>
     </channel>
