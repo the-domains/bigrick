@@ -4,8 +4,22 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 04:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 04:08:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[M2.7 - 6km SW of Yountville, California]]></title>
+            <description><![CDATA[<article><h1>M2.7 - 6km SW of Yountville, California</h1><p>USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards</p></article>]]></description>
+            <link>http://earthquake.usgs.gov/earthquakes/eventpage/nc72598070#general_region</link>
+            <guid isPermaLink="false">991f8f71-8839-4513-a141-26a51856e2c0</guid>
+            <pubDate>Fri, 26 Feb 2016 04:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>how did this lil ass 2.7 earthquake make my entire table move thats not even enough to make an empty water bottle fall over</p>]]></description>
+            <link>https://twitter.com/mscrazyjno/status/703065912820150272</link>
+            <guid isPermaLink="false">749aab15-58ec-425e-b8e2-c693407f5c5c</guid>
+            <pubDate>Fri, 26 Feb 2016 04:06:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I didn't feel the earthquake, do it again.</p>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html?_r=1</link>
             <guid isPermaLink="false">210005bc-d878-4643-83e5-d338d1bdad4f</guid>
             <pubDate>Thu, 25 Feb 2016 19:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thomas Keller - Message to Our Guests]]></title>
-            <description><![CDATA[<article><h1>Thomas Keller - Message to Our Guests</h1><p>Thomas Keller is chef and proprietor of The French Laundry, Per Se, Bouchon, Bar Bouchon, Bouchon Bakery, and Ad Hoc. He has authored five cookbooks inspired by his restaurants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3f3c37c5f38b40e71bd3d9b56d5fd65971a932f.jpg"></article>]]></description>
-            <link>http://www.thomaskeller.com/messagetoourguests</link>
-            <guid isPermaLink="false">d99c1a4b-1844-486d-ad02-3ccbd37b7cf6</guid>
-            <pubDate>Thu, 25 Feb 2016 19:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video Theater]]></title>
-            <description><![CDATA[<article><h1>Video Theater</h1><p>Wines from Bordeaux have a reputation for being pricey, and some bottles do sell for thousands of dollars. How can you find red Bordeaux values? Senior editor James Molesworth shares his favorite tips in this video. Catch his latest reviews in Wine Spectator's March 31 issue. (37sec) Which sub-regions offer great value Bordeaux?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/963ccf24084d451d9e76dadff2f0578894d0262b.jpg"></article>]]></description>
-            <link>http://portal.criticalimpact.com/vm2/5493f3db51b3757b/25682/934908a9930184d7c3d6b838967d376c</link>
-            <guid isPermaLink="false">8d06f90e-e317-49f6-8aba-28170dce2cc5</guid>
-            <pubDate>Thu, 25 Feb 2016 19:31:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
