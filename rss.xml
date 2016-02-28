@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 15:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 15:55:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[History, Travel, Arts, Science, People, Places | Smithsonian]]></title>
+            <description><![CDATA[<article><h1>History&comma; Travel&comma; Arts&comma; Science&comma; People&comma; Places &vert; Smithsonian</h1></article>]]></description>
+            <link>http://www.smithsonianmag.com/travel/the-ghost-wineries-of-napa-valley-146787227/?no-ist</link>
+            <guid isPermaLink="false">1c292f4a-5d89-4835-bbf3-cd491867044b</guid>
+            <pubDate>Sun, 28 Feb 2016 15:54:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spring/Summer 2016: At Thomas Keller's Addendum]]></title>
             <description><![CDATA[<article><h1>Spring/Summer 2016: At Thomas Keller's Addendum</h1><p>Everything changes and nothing stands still. ~Heraclitus We have a time change coming up. A week later, we officially transition from Winter into Spring. Before all that change happens, however, something much, much tastier will take place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74efbdcbfe5cc24d6c1e1947731597eb257fab87.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="On palate 2011 Old Soldier Road&comma; Tephra Ridge Vineyard - phew&excl; - blend shows another face&period; http&colon;&sol;&sol;bit&period;ly&sol;1P9dJ0I" src="https://pbs.twimg.com/media/CabZAZQUcAEvcNZ.jpg:large">]]></description>
             <link>https://twitter.com/RecordBee/status/695481794104176640</link>
             <guid isPermaLink="false">a2bb7088-e12b-490f-8421-d579f6168722</guid>
-            <pubDate>Sat, 27 Feb 2016 05:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2012 Castello di Uzzano Chianti Classico]]></title>
-            <description><![CDATA[<article><h1>2012 Castello di Uzzano Chianti Classico</h1><p>I always enjoy buying Chianti Classicos at Costco because the prices are hard to beat, they are typically in the $13-19 range and the wines usually taste great. This is a DOCG bottle that I found for $13.99.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/500b23e4c41c56edd4adc8e814622ed9347ad67c.jpg"></article>]]></description>
-            <link>http://costcowineblog.com/2012-castello-di-uzzano-chianti-classico/</link>
-            <guid isPermaLink="false">6cfaea4b-6a5c-4000-83e3-fe5891d15cb7</guid>
             <pubDate>Sat, 27 Feb 2016 05:29:49 GMT</pubDate>
         </item>
     </channel>
