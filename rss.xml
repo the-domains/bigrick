@@ -4,15 +4,8 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 00:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 00:28:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Coolest New Destination in Napa Valley is in Yountville]]></title>
-            <description><![CDATA[<article><h1>The Coolest New Destination in Napa Valley is in Yountville</h1><p>Wine Business Blog</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ee61f34dfb2acad1a5c490a7aab7b67f7d39de7.jpg"></article>]]></description>
-            <link>http://www.winebusiness.com/blog/?go=getBlogEntry&amp;dataId=165533</link>
-            <guid isPermaLink="false">bcd2a326-d856-400b-9d3f-703f6d7d5568</guid>
-            <pubDate>Thu, 03 Mar 2016 00:27:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Drink In the Downton Abbey Finale | Wine Enthusiast Magazine]]></title>
             <description><![CDATA[<article><h1>Drink In the Downton Abbey Finale | Wine Enthusiast Magazine</h1><p>The curtains will close on PBS's beloved British soap opera Downton Abbey on March 6, and if you're longtime fans like us, you'll need a drink in order to cope. Throughout the lavishly costumed series, which chronicles 14 years of upper-crust intrigue on an aristocratic English estate, drinks have played a central role-so much that a Downton Abbey-inspired wine collection was released in 2013 and expanded last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af162230f6f5c1e19e2664c41f7171d8581e28b0.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.bicycling.com/food/recipes/how-to-make-your-own-beef-jerky</link>
             <guid isPermaLink="false">a83ae7ba-925e-4197-a354-06c82aaafa4b</guid>
             <pubDate>Sat, 27 Feb 2016 17:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Peel P50 top $100,000?]]></title>
+            <description><![CDATA[<article><h1>Will the Peel P50 top $100,000?</h1><p>The Peel P50 is better known as that car that Jeremy Clarkson once drove inside the BBC building. What was not made abundantly clear in that memorable "Top Gear UK" episode was just how rare and valuable the P50 happens to be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4fd996a5ca2915fb998468fbcd96ae362e9530b.jpg"></article>]]></description>
+            <link>http://autoweek.com/article/auctions/will-peel-p50-top-100000</link>
+            <guid isPermaLink="false">0d7d36e0-a713-4e81-a635-5607a9ba8e28</guid>
+            <pubDate>Sat, 27 Feb 2016 17:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
