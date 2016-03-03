@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 22:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 22:54:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4102dee7-f543-4846-8820-cf1da03c9fd9.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/6aae42c1-bc86-4ea7-9727-4934415be8c4/index.html</link>
+            <guid isPermaLink="false">6aae42c1-bc86-4ea7-9727-4934415be8c4</guid>
+            <pubDate>Thu, 03 Mar 2016 22:53:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8c42742-d700-462c-b267-417fafb892e8.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Drink In the Downton Abbey Finale | Wine Enthusiast Magazine</h1><p>The curtains will close on PBS's beloved British soap opera Downton Abbey on March 6, and if you're longtime fans like us, you'll need a drink in order to cope. Throughout the lavishly costumed series, which chronicles 14 years of upper-crust intrigue on an aristocratic English estate, drinks have played a central role-so much that a Downton Abbey-inspired wine collection was released in 2013 and expanded last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af162230f6f5c1e19e2664c41f7171d8581e28b0.jpg"></article>]]></description>
             <link>http://www.winemag.com/listicle/drink-in-the-downton-abbey-finale/</link>
             <guid isPermaLink="false">c7c10529-6102-41ad-85c0-24416c061f51</guid>
-            <pubDate>Thu, 03 Mar 2016 00:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California: A region on a role]]></title>
-            <description><![CDATA[<article><h1>California: A region on a role</h1><p>FEW ASSOCIATIONS in the wine world are as strong as California and Cabernet. With a history stretching back to the 1870s, the state has been playing with this high-profile grape for well over a century, although it wasn't until the 1970s that Californian Cabernet really gained global acclaim.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ee72e0fb9db4362af2496f0af2d53cc484a4b7f.png"></article>]]></description>
-            <link>http://www.thedrinksbusiness.com/2016/03/a-region-on-a-roll/</link>
-            <guid isPermaLink="false">913562f8-44df-4856-9fd6-8cbed06f31c0</guid>
             <pubDate>Thu, 03 Mar 2016 00:27:02 GMT</pubDate>
         </item>
     </channel>
