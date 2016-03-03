@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 00:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 00:27:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Explore Napa's Hidden Lovall Valley]]></title>
+            <description><![CDATA[<article><h1>Explore Napa's Hidden Lovall Valley</h1><p>Want to spend a few hours cycling in an idyllic setting? Take a spin through Napa's Lovall Valley, where you'll find rolling vineyards, architecturally interesting homes, and roadside art set in a compact bowl of verdant green hills.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dafeb6f782c2d78f4fe09e072fec4c09df4e7d8c.jpg"></article>]]></description>
+            <link>http://www.7x7.com/play/explore-napa-s-hidden-lovall-valley</link>
+            <guid isPermaLink="false">38f9084e-8353-4423-8505-616dbe188f22</guid>
+            <pubDate>Thu, 03 Mar 2016 00:27:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ask a Somm: When Should I Decant Wine?]]></title>
             <description><![CDATA[<article><h1>Ask a Somm: When Should I Decant Wine?</h1><p>Back before the days of Roy Choi and Michael Voltaggio, Los Angeles was home to chefs like Wolfgang Puck, Nancy Silverton, and Josiah Citrin - the city's old guard. Perhaps retaining some of L.A.'s original DNA, those latter chefs have mostly stayed true to proper white tablecloth dining, a nearly extinct species among the city's influx of fermentation and bowls of raw fish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e617ffa551f5cfe87751e5361579070400c85353.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://insidescoopsf.sfgate.com/blog/2016/02/26/bacon-bacons-soma-cafe-located-near-the-ballpark-opens-next-week/</link>
             <guid isPermaLink="false">983c848e-3dc7-4ed9-8bb5-9b744d9601da</guid>
             <pubDate>Sat, 27 Feb 2016 16:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gott's Roadside opening in Walnut Creek]]></title>
-            <description><![CDATA[<article><h1>Gott's Roadside opening in Walnut Creek</h1><p>Gott's Roadside Diner is opening its first East Bay location in downtown Walnut Creek. The wildly popular restaurant is known for its updated take on classic Americana roadside fare, including burgers made with natural Niman Ranch meat, sweet potato fries, and organic ice cream shakes, as well as ahi fish tacos, salads, craft beer, and robust selection of Napa Valley wines-the original restaurant opened in St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2be04759cbee583c6c2c874ad4946beda3b9ee7.jpg"></article>]]></description>
-            <link>http://insidescoopsf.sfgate.com/blog/2016/02/25/gotts-roadside-opening-in-walnut-creek/</link>
-            <guid isPermaLink="false">aee93bff-9e59-4c92-8f42-aa1a9a726d5a</guid>
-            <pubDate>Sat, 27 Feb 2016 16:15:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
