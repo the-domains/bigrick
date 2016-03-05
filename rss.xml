@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 02:22:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/076e7606-6899-47b9-be21-d9d3d88c2e5b.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/192711e9-f7b9-4623-907f-9aecf74cc138/index.html</link>
+            <guid isPermaLink="false">192711e9-f7b9-4623-907f-9aecf74cc138</guid>
+            <pubDate>Sat, 05 Mar 2016 02:20:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On Wine: Diverse AVAs tell Sonoma County's wine story]]></title>
             <description><![CDATA[<article><h1>On Wine: Diverse AVAs tell Sonoma County's wine story</h1><p>Sixty years ago, on May 3, 1956, a musical opened on Broadway called "Most Happy Fella," and it changed the fortunes of the entire American wine industry in a most curious way. The musical had a showstopper song with a line that said, "I'm the most happy fella in the whole Napa Valley."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad30fe1597b49ea65c7e56d79879a067f6758fa7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/WineCountry/status/703775434488586240</link>
             <guid isPermaLink="false">44eeca40-5caa-44de-a72f-73e670820277</guid>
             <pubDate>Thu, 03 Mar 2016 22:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cellar Collections]]></title>
-            <description><![CDATA[<article><h1>Cellar Collections</h1><p>Stemmler 2013 Pinot Noir, Sonoma Coast "Medium ruby in color, with expressive aromas of blackberry, kirsch, cherry, watermelon and pencil lead. The palate shows bright cherry and raspberry, with fresh plum and spice notes on the finish. Earthy yet juicy, this supple Pinot shows wonderful finesse and depth."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3879781a71cc558c69143748708d460daa656888.jpg"></article>]]></description>
-            <link>http://www.cellarcollections.com/Store/Detail/2672/Stemmler%202013%20Pinot%20Noir,%20Sonoma%20Coast/?utm_source=WTF+March+4th&amp;utm_campaign=03.03.16+Newsletter&amp;utm_medium=email</link>
-            <guid isPermaLink="false">91db1e1b-e2f2-4dad-8303-d50d70aa27b4</guid>
-            <pubDate>Thu, 03 Mar 2016 22:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
