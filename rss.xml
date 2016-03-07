@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 21:29:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Gray Report]]></title>
+            <description><![CDATA[<article><h1>The Gray Report</h1><p>Richard Jennings spent $4000 of his own money to review 230 grocery store Chardonnays on his blog. I feel confident even in early March calling it "the year's best wine blog post" because I don't remember the last time I read a better one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f338b3e1702602bb3267a1ff5bf2bbf777ed80.jpg"></article>]]></description>
+            <link>http://blog.wblakegray.com/2016/03/grocery-store-chardonnay-reviewed-in.html</link>
+            <guid isPermaLink="false">7e97ba66-70bb-4a11-b652-324cd71f6eae</guid>
+            <pubDate>Mon, 07 Mar 2016 21:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pinot Noir 4.0: An exploration of extreme terroir in California and Oregon]]></title>
             <description><![CDATA[<article><h1>Pinot Noir 4.0: An exploration of extreme terroir in California and Oregon</h1><p>This is my take on the situation. I hope to hear from you about yours. Agree, disagree, whatever you add will be appreciated. Thanks. * * * Pinot 1.0 extended from approximately the Repeal of Prohibition (1933) through the 1950s. Growers knew they wanted to plant Pinot Noir because it was the great grape of Burgundy.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.pressdemocrat.com/lifestyle/5284105-181/wine-of-the-week-rodney?ref=menu&amp;artslide=0</link>
             <guid isPermaLink="false">0b1ae8c3-5439-43eb-ae7b-546170a326ac</guid>
             <pubDate>Sat, 05 Mar 2016 02:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wine Show Series Trailer - Starring Matthew Goode & Matthew Rhys]]></title>
-            <description><![CDATA[<article><h1>The Wine Show Series Trailer - Starring Matthew Goode & Matthew Rhys</h1><p>Matthew Goode & Matthew Rhys star in this new brand new 13 x 1 hour television series, for broadcast on ITV Spring 2016. Filmed in beautiful locations all over the world, The Wine Show is informative, entertaining, humorous and surprising, with something for everyone who enjoys a glass of wine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f58d5cf12cc49e07a284cce0664abe165de37571.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=bu77rb0mww4</link>
-            <guid isPermaLink="false">6befcbdd-4640-46fe-aff8-2e0de540522c</guid>
-            <pubDate>Sat, 05 Mar 2016 02:10:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
