@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 20:16:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7849a2b-ffc7-4d8b-a2b9-a17342275eb8.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/atelier-by-jcb-yountville/index.html</link>
+            <guid isPermaLink="false">f2dde23a-87f5-4423-a92b-95b54936d20e</guid>
+            <pubDate>Tue, 08 Mar 2016 20:15:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3 hard punches to give your wine brand a fighting chance |]]></title>
             <description><![CDATA[<article><h1>3 hard punches to give your wine brand a fighting chance |</h1><p>Put down your wine glass for a minute and pick up your calculator, your P&L and your cash flow statement instead. Unless you start paying as much attention to the business of wine as you do what's in the glass, you might find yourself drinking alone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a32d2a97af3d662a7e76070c562de776feafee7c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>RJonWine.com</h1><p>This is a report on 230 domestic Chardonnays representative of what can be found on grocery store shelves in Northern California. Many of these Chardonnays can be found in grocery stores in the 35 states in the U.S. where wine sales at such stores are permitted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4d1fb1825dfc3864034a34f9666fee9e9d2f85d.jpg"></article>]]></description>
             <link>http://www.rjonwine.com/</link>
             <guid isPermaLink="false">89f88a4e-73af-4f5f-8d12-8b8eb5f06fbf</guid>
-            <pubDate>Mon, 07 Mar 2016 21:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gray Report]]></title>
-            <description><![CDATA[<article><h1>The Gray Report</h1><p>Richard Jennings spent $4000 of his own money to review 230 grocery store Chardonnays on his blog. I feel confident even in early March calling it "the year's best wine blog post" because I don't remember the last time I read a better one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f338b3e1702602bb3267a1ff5bf2bbf777ed80.jpg"></article>]]></description>
-            <link>http://blog.wblakegray.com/2016/03/grocery-store-chardonnay-reviewed-in.html</link>
-            <guid isPermaLink="false">7e97ba66-70bb-4a11-b652-324cd71f6eae</guid>
             <pubDate>Mon, 07 Mar 2016 21:28:58 GMT</pubDate>
         </item>
     </channel>
