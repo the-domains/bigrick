@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'http://www.winespectator.com/webfeature/show/id/52852?utm_medium=email&utm_source=Health-Eletter030816B&utm_campaign=Health030916'
+isBasedOnUrl: 'http://www.winespectator.com/webfeature/show/id/52790?utm_medium=email&utm_source=Health-Eletter030816B&utm_campaign=Health030916'
 title: 'Wine Spectator - Low Membership Price!'
-datePublished: '2016-03-09T19:09:22.833Z'
-dateModified: '2016-03-09T19:03:15.972Z'
+datePublished: '2016-03-09T19:09:22.846Z'
+dateModified: '2016-03-09T19:08:09.238Z'
 sourcePath: _posts/2016-03-09-wine-spectator-low-membership-price.md
 published: true
 inFeed: true
