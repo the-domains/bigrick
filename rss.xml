@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 19:07:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wine & Health]]></title>
+            <description><![CDATA[<article><h1>Wine & Health</h1><p>Ask Wine Spectator... Q: I'm careful about my alcohol intake. Should I be concerned about foods that are prepared with wine or other alcoholic beverages? Doesn't cooking burn off the alcohol?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b838f9dc3908e9bcb628660f2866a0cea16caea0.jpg"></article>]]></description>
+            <link>http://portal.criticalimpact.com/vm2/8f9070096f867e54/25682/934908a9930184d7c3d6b838967d376c</link>
+            <guid isPermaLink="false">5aa50509-80f2-4030-a463-5c76777dc80b</guid>
+            <pubDate>Wed, 09 Mar 2016 19:05:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7849a2b-ffc7-4d8b-a2b9-a17342275eb8.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>New York Cork Club: March 2016 Selections</h1><p>"Does he pick these wines because we like them?" One of our friends - who also happens to be a member of this club - asked my wife that recently, and while the short answer is probably "no" it's a bit more complicated than that, I think.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37438386741c7fb7098d1887b2512ec313e9ca7d.jpg"></article>]]></description>
             <link>http://newyorkcorkreport.com/blog/2016/03/03/new-york-cork-club-march-2016-selections/</link>
             <guid isPermaLink="false">6da0b69b-11f6-4acf-9dbe-f4f58f1fb3de</guid>
-            <pubDate>Mon, 07 Mar 2016 21:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RJonWine.com]]></title>
-            <description><![CDATA[<article><h1>RJonWine.com</h1><p>This is a report on 230 domestic Chardonnays representative of what can be found on grocery store shelves in Northern California. Many of these Chardonnays can be found in grocery stores in the 35 states in the U.S. where wine sales at such stores are permitted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4d1fb1825dfc3864034a34f9666fee9e9d2f85d.jpg"></article>]]></description>
-            <link>http://www.rjonwine.com/</link>
-            <guid isPermaLink="false">89f88a4e-73af-4f5f-8d12-8b8eb5f06fbf</guid>
             <pubDate>Mon, 07 Mar 2016 21:28:58 GMT</pubDate>
         </item>
     </channel>
