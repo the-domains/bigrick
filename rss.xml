@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 19:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 19:11:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wine Spectator - Low Membership Price!]]></title>
+            <description><![CDATA[<article><h1>Wine Spectator - Low Membership Price&excl;</h1></article>]]></description>
+            <link>http://www.winespectator.com/webfeature/show/id/52852?utm_medium=email&amp;utm_source=Health-Eletter030816B&amp;utm_campaign=Health030916</link>
+            <guid isPermaLink="false">e6f16780-80db-4014-ba31-998575b42912</guid>
+            <pubDate>Wed, 09 Mar 2016 19:09:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wine Spectator - Low Membership Price!]]></title>
             <description><![CDATA[<article><h1>Wine Spectator - Low Membership Price&excl;</h1></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The 'Next Napa': Baja's Valle de Guadalupe wines are ripe for success</h1><p>Baja's Valle de Guadalupe has been dubbed the "the Next Napa." So why has it been so hard for its wine to gain a foothold in the U.S. market? In the last few years, this relatively young, rapidly expanding region, which produces an estimated 90% of the country's wine, has become the critical darling...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9872c58cfa45aaa3014c0f713a0c2ca7837ae1a5.jpg"></article>]]></description>
             <link>http://www.latimes.com/local/california/la-me-baja-next-napa-wine-20160307-story.html</link>
             <guid isPermaLink="false">1dfde378-b850-4633-861f-5e0b79995866</guid>
-            <pubDate>Tue, 08 Mar 2016 20:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valley Fire Relief Charity Wine Auction]]></title>
-            <description><![CDATA[<article><h1>Valley Fire Relief Charity Wine Auction</h1><p>With your help, the Valley Fire Relief Charity Wine Auction will bring much needed help to people affected by the fires in Lake County.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bebbf123305ff55f49fe0e7a3330fb61f5a8e4e6.jpg"></article>]]></description>
-            <link>http://lakecountyrising.org/charity-auction</link>
-            <guid isPermaLink="false">326d430c-50eb-4e58-a822-2d118378dc2b</guid>
             <pubDate>Tue, 08 Mar 2016 20:08:45 GMT</pubDate>
         </item>
     </channel>
