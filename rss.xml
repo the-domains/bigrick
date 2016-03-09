@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 19:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 19:07:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Caught up with our friend and team leader &commat;KollarChoc yesterday&period; Sheer confectionery wizardry&period;" src="https://pbs.twimg.com/media/CdH93_zUAAAaTzg.jpg:large">]]></description>
+            <link>https://twitter.com/BottegaGF/status/707625767589416961</link>
+            <guid isPermaLink="false">8de3cb6e-6ccd-4682-9cb0-573d6a9ef2f7</guid>
+            <pubDate>Wed, 09 Mar 2016 19:05:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wine & Health]]></title>
             <description><![CDATA[<article><h1>Wine & Health</h1><p>Ask Wine Spectator... Q: I'm careful about my alcohol intake. Should I be concerned about foods that are prepared with wine or other alcoholic beverages? Doesn't cooking burn off the alcohol?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b838f9dc3908e9bcb628660f2866a0cea16caea0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.eater.com/drinks/2016/3/8/11175218/natural-wine-category</link>
             <guid isPermaLink="false">e25f0ef2-e85d-41a7-871b-7225677caa73</guid>
             <pubDate>Tue, 08 Mar 2016 20:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New York Cork Club: March 2016 Selections]]></title>
-            <description><![CDATA[<article><h1>New York Cork Club: March 2016 Selections</h1><p>"Does he pick these wines because we like them?" One of our friends - who also happens to be a member of this club - asked my wife that recently, and while the short answer is probably "no" it's a bit more complicated than that, I think.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37438386741c7fb7098d1887b2512ec313e9ca7d.jpg"></article>]]></description>
-            <link>http://newyorkcorkreport.com/blog/2016/03/03/new-york-cork-club-march-2016-selections/</link>
-            <guid isPermaLink="false">6da0b69b-11f6-4acf-9dbe-f4f58f1fb3de</guid>
-            <pubDate>Mon, 07 Mar 2016 21:28:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
