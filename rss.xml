@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 20:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 22:16:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f7d968f-f3d5-4a32-b0fd-542ebe9616ed.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/936bb029-3974-4ea5-8c0c-16c9df61fdd8/index.html</link>
+            <guid isPermaLink="false">936bb029-3974-4ea5-8c0c-16c9df61fdd8</guid>
+            <pubDate>Wed, 09 Mar 2016 22:14:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In California, day 4 - Napa Valley with Peter Michael, Corison, Trinchero, Silverado and Chimney Rock]]></title>
             <description><![CDATA[<article><h1>In California, day 4 - Napa Valley with Peter Michael, Corison, Trinchero, Silverado and Chimney Rock</h1><p>Day four of the California trip. By now, the group was certainly performing, and this was to be one of our strongest days in terms of banter and general foolery. Of course, we were utterly professional. But bus banter is so important for a trip like this, and everyone played their part.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.prnewswire.com/news-releases/martini-kicks-off-the-2016-formula-one-race-season-with-felipe-massa-and-valtteri-bottas-300233280.html</link>
             <guid isPermaLink="false">2b4c06c1-f07b-4255-91ae-857079b79611</guid>
             <pubDate>Wed, 09 Mar 2016 19:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Caught up with our friend and team leader &commat;KollarChoc yesterday&period; Sheer confectionery wizardry&period;" src="https://pbs.twimg.com/media/CdH93_zUAAAaTzg.jpg:large">]]></description>
-            <link>https://twitter.com/BottegaGF/status/707625767589416961</link>
-            <guid isPermaLink="false">8de3cb6e-6ccd-4682-9cb0-573d6a9ef2f7</guid>
-            <pubDate>Wed, 09 Mar 2016 19:05:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
