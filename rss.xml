@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 01:15:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Gray Report]]></title>
+            <description><![CDATA[<article><h1>The Gray Report</h1><p>Recently I wrote that San Joaquin Valley -- source of most of the wine made in North America -- makes nothing of interest for wine lovers. That I knew of. A few days later, I heard about the Superbloom in Death Valley, a rare event when wildflowers that lay dormant for years suddenly burst into life after a rainy winter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51476a12f451c5b6715f1176263eedf2dd0740c4.jpg"></article>]]></description>
+            <link>http://blog.wblakegray.com/2016/03/finding-good-wines-from-californias.html</link>
+            <guid isPermaLink="false">3b5a4bd0-1912-4c6a-a491-a373b7278a7f</guid>
+            <pubDate>Sun, 13 Mar 2016 01:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f7d968f-f3d5-4a32-b0fd-542ebe9616ed.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.prnewswire.com/news-releases/martini-kicks-off-the-2016-formula-one-race-season-with-felipe-massa-and-valtteri-bottas-300233280.html#</link>
             <guid isPermaLink="false">12b00c8b-3581-4c17-9e6e-80e647a8e9bb</guid>
             <pubDate>Wed, 09 Mar 2016 19:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://www.prnewswire.com/news-releases/martini-kicks-off-the-2016-formula-one-race-season-with-felipe-massa-and-valtteri-bottas-300233280.html</link>
-            <guid isPermaLink="false">2b4c06c1-f07b-4255-91ae-857079b79611</guid>
-            <pubDate>Wed, 09 Mar 2016 19:07:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
