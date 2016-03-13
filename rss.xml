@@ -4,15 +4,8 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 01:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 01:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Five Tribes of Online Wine Buyers]]></title>
-            <description><![CDATA[<article><h1>The Five Tribes of Online Wine Buyers</h1><p>The consumer is a mystery to the wine industry. Like shadows projected on Plato's Cave, we've been grasping onto snippets of conversations, survey data and online feedback to guess what truly reflects their sentiments and purchasing decisions. Whole marketing programs and product launches have been decided on these fragments of information.</p></article>]]></description>
-            <link>http://tmrwengine.com/2016/03/the-five-tribes-of-online-wine-buyers/</link>
-            <guid isPermaLink="false">4d9b643f-ffad-45a6-b707-f138f3e1e136</guid>
-            <pubDate>Sun, 13 Mar 2016 01:15:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Clairet: the Super-Rosé? - PALATE PRESS]]></title>
             <description><![CDATA[<article><h1>Clairet: the Super-Rosé? - PALATE PRESS</h1><p>Several years ago when I was on assignment in Bordeaux, one of the winemakers I interviewed was Esme Johnstone, a former major British wine merchant who had taken up residence as director of Château de Sours near Saint-Quentin-de-Baron.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22ceb75a7a50a639e1881447fc54b090d92f700f.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.dailymail.co.uk/femail/article-3458443/Fitness-coach-s-wine-workout-goes-viral-performs-bicep-curls-bottles-red-rewards-lunges-cheeky-sip.html</link>
             <guid isPermaLink="false">2b08a6e2-267f-42c5-aea6-45c87c0e1f3c</guid>
             <pubDate>Wed, 09 Mar 2016 19:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Culinary Wine & Food Adventures]]></title>
+            <description><![CDATA[<article><h1>Culinary Wine & Food Adventures</h1><p>But do remarkable vintages equal remarkable wines? Permission to speak frankly, if somewhat like a wine geek spoiled by the recent embarrassment of richly endowed, undeniably world class Pinot Noirs currently being grown up and down the West Coast, from British Columbia to Santa Barbara: the 2013s in general are not blowing my mind -- at least no more than the fewer 2012s and 2014s tasted over the past weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/943bbe0e1f321c14e8328093510ffb64bd89d0f9.jpg"></article>]]></description>
+            <link>http://randycaparoso.blogspot.com/2016/03/2016-world-of-pinot-noir-are-american.html</link>
+            <guid isPermaLink="false">47c07d54-be76-4f3b-a6d2-28e1ed27c20d</guid>
+            <pubDate>Wed, 09 Mar 2016 19:09:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
