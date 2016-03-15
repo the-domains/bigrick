@@ -7,13 +7,6 @@
         <lastBuildDate>Tue, 15 Mar 2016 06:52:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://www.prnewswire.com/news-releases/bonterra-organic-vineyards-recognized-as-impact-magazine-hot-brand-for-2015-growing-ten-times-faster-than-wine-category-300235275.html</link>
-            <guid isPermaLink="false">229f8142-5279-4191-88b7-c481a07a4772</guid>
-            <pubDate>Tue, 15 Mar 2016 06:51:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[2016 Vintage Winter Weather Report from Jordan Vineyards]]></title>
             <description><![CDATA[<article><h1>2016 Vintage Winter Weather Report from Jordan Vineyards</h1><p>Mother Nature has been good to us so far in 2016, delivering more than 21 inches of rain to date and an additional 4-plus inches are predicted by the end of this week. Currently, the 21 inches of rain received represents 84% of a normal year in Sonoma County (36.28 inches is our annual average).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe27a0aced732f31d340f0559aa876c7fc7c3dc3.jpg"></article>]]></description>
             <link>http://blog.jordanwinery.com/2016/03/2016-vintage-winter-weather-report-from-jordan-vineyards/</link>
@@ -75,6 +68,13 @@
             <link>http://www.hotelbusiness.com/Brands/Hampton-by-Hilton-Opens-in-Napa-CA/53481</link>
             <guid isPermaLink="false">d9226f3c-9a60-46b7-a80c-087c58a4cdfa</guid>
             <pubDate>Sun, 13 Mar 2016 01:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State dinner wines for Justin Trudeau - Dr Vino's wine blog]]></title>
+            <description><![CDATA[<article><h1>State dinner wines for Justin Trudeau - Dr Vino's wine blog</h1><p>I had fun the other day when a new channel from Canada called. The reporter asked me which wines I would serve for tomorrow's state dinner at the White House in honor of PM Justin Trudeau, the first state visit of a Canadian prime minister in 20 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67a3b64d625a63a25511916e5670e0becc110cd8.jpg"></article>]]></description>
+            <link>http://www.drvino.com/2016/03/09/state-dinner-wines-trudeau-canada/</link>
+            <guid isPermaLink="false">fd5c462e-22c4-4a79-ac28-0e52d50d9c71</guid>
+            <pubDate>Sun, 13 Mar 2016 01:15:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
