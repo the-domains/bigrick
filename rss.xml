@@ -7,13 +7,6 @@
         <lastBuildDate>Tue, 15 Mar 2016 06:52:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[As rain falls in California, tensions rise over who gets the water]]></title>
-            <description><![CDATA[<article><h1>As rain falls in California, tensions rise over who gets the water</h1><p>With prolonged and steady rain falling on Northern California for the first time in weeks, tensions are rising over how to manage the stormwater flows now streaming through the Sacramento-San Joaquin Delta. Saying too much water is flowing out to sea, U.S. Sen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1116294cc96befdb8e6ff7a66e8b2493f3695a6.jpg"></article>]]></description>
-            <link>http://www.sacbee.com/news/state/california/water-and-drought/article65587437.html</link>
-            <guid isPermaLink="false">1f49668f-47e3-4ec4-8210-fac266520498</guid>
-            <pubDate>Tue, 15 Mar 2016 06:51:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bottle, and magnum, variation]]></title>
             <description><![CDATA[<article><h1>Bottle, and magnum, variation</h1><p>I know that many members of Purple Pages are frustrated by the fact that our scores for individual wines can vary considerably - not just between tasters, but the same taster (usually me) may taste a wine on multiple occasions and give very different scores each time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd59549d083bed1d1b04adaf9de14be8f05ab372.jpg"></article>]]></description>
             <link>http://www.jancisrobinson.com/articles/bottle-and-magnum-variation</link>
@@ -75,6 +68,13 @@
             <link>http://finance.yahoo.com/news/nakedwines-com-wins-gold-stevie-140400237.html</link>
             <guid isPermaLink="false">b4883a9a-5e5c-4d34-b0fc-f5760f6b29ef</guid>
             <pubDate>Sun, 13 Mar 2016 01:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BevMo opening Napa store]]></title>
+            <description><![CDATA[<article><h1>BevMo opening Napa store</h1><p>Beverage retailer BevMo! has been selling Napa Valley wines for 21 years, but now it will be selling them in Napa itself, with a new store there opening March 12. The 6,800-square-foot new location, at 3319 Jefferson St., is the 158th store for Concord-based BevMo ( bevmo.com), which operates in California, Arizona and Washington.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6820ad8111293fed91548ba465564c135ace8ed.jpg"></article>]]></description>
+            <link>http://www.northbaybusinessjournal.com/northbay/napacounty/5369015-181/bevmo-opening-napa-store</link>
+            <guid isPermaLink="false">c5c12e65-ef42-44f2-88cf-b8001c1cff3d</guid>
+            <pubDate>Sun, 13 Mar 2016 01:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
