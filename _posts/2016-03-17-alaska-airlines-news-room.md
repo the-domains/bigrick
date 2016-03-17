@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://splash.alaskasworld.com/Newsroom/ASNews/ASstories/AS_20160316_085212.asp'
 title: Alaska Airlines News Room
-datePublished: '2016-03-17T06:30:43.758Z'
-dateModified: '2016-03-17T06:29:19.523Z'
+datePublished: '2016-03-17T06:36:17.246Z'
+dateModified: '2016-03-17T06:34:58.208Z'
 sourcePath: _posts/2016-03-17-alaska-airlines-news-room.md
 published: true
 inFeed: true
