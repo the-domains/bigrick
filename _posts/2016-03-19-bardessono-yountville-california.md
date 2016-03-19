@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Bardessono Yountville California
-datePublished: '2016-03-19T17:32:08.708Z'
-dateModified: '2016-03-19T17:29:08.504Z'
+datePublished: '2016-03-19T20:13:47.526Z'
+dateModified: '2016-03-19T20:02:04.017Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-bardessono-yountville-california.md
@@ -22,6 +22,6 @@ url: bardessono-yountville-california/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db3e61c8-23c1-4358-98fa-48b3bf4a90c7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f9b404aa19d567a9bce9224a58880ace983d4d.jpg)
 
 Bardessono Yountville California
