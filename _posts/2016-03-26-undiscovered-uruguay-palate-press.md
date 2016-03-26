@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://palatepress.com/2016/03/wine/undiscovered-uruguay/'
 title: Undiscovered Uruguay - PALATE PRESS
-datePublished: '2016-03-26T20:20:26.624Z'
-dateModified: '2016-03-26T20:12:14.212Z'
+datePublished: '2016-03-26T20:58:57.169Z'
+dateModified: '2016-03-26T20:56:23.651Z'
 sourcePath: _posts/2016-03-26-undiscovered-uruguay-palate-press.md
 published: true
 inFeed: true
