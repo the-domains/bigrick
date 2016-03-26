@@ -4,22 +4,8 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 20:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 20:20:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>French</p>]]></description>
-            <link>https://thegrid.ai/bigrick/french/index.html</link>
-            <guid isPermaLink="false">f562c39a-90f5-4c44-8e84-4d2292349761</guid>
-            <pubDate>Sat, 26 Mar 2016 20:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview with Philippe Dhalluin of Mouton Rothschild]]></title>
-            <description><![CDATA[<article><h1>Interview with Philippe Dhalluin of Mouton Rothschild</h1><p>The Managing Director of Mouton Rothschild, Philippe Dhalluin, has been overseeing winemaking at the property and several of its other estates for over a decade. At the beginning of March, he met with Liv-ex Director Anthony Maxwell to discuss developments at Mouton, the fine wine market and Bordeaux 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9f64a7acd5120ae6e50744eb7f07eadc5d1e3d4.jpg"></article>]]></description>
-            <link>http://www.blog.liv-ex.com/2016/03/interview-with-philippe-dhalluin-of-mouton-rothschild.html</link>
-            <guid isPermaLink="false">cd31fdf2-e5a2-41d5-8c83-a70a6a2a6ee2</guid>
-            <pubDate>Sat, 26 Mar 2016 20:20:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Gray Report]]></title>
             <description><![CDATA[<article><h1>The Gray Report</h1><p>Wine, it turns out, can be bi-curious. Australia's Jacob's Creek winery is making wine aged in whiskey barrels, and not just a few bottles either: 45,000 cases total of three varieties. While it seems like a stunt for the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a6aa5b9373809a131caba7292c0dd5e3c1813bd.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.sonomanews.com/lifestyle/5418927-181/kathleen-hill-french-laundry-kitchen?artslide=0</link>
             <guid isPermaLink="false">ae42994d-ffb5-4d63-b006-ba47fea3c64f</guid>
             <pubDate>Fri, 25 Mar 2016 07:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc3a2381-47f3-4cdd-99d6-115145cfa19f.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/915caeb3-844e-462e-a144-58330493cc23/index.html</link>
+            <guid isPermaLink="false">915caeb3-844e-462e-a144-58330493cc23</guid>
+            <pubDate>Thu, 24 Mar 2016 01:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charity auction raises $160,000]]></title>
+            <description><![CDATA[<article><h1>Charity auction raises $160,000</h1><p>The Valley Fire Relief Charity Wine Auction, held Sunday at the Culinary Institute of America at Greystone, brought in more than $160,000 for the victims of last September's Valley Fire. About a hundred people attended the event, held in the second-story Barrel Room of the Greystone Cellars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75c6cb2e35caa5cf88313efc980013effd4542c9.jpg"></article>]]></description>
+            <link>http://napavalleyregister.com/star/news/local/charity-auction-raises/article_c969e6d7-2807-5be5-81e6-32d893bee925.html</link>
+            <guid isPermaLink="false">97dfcab8-c26f-4103-87e8-77251a520865</guid>
+            <pubDate>Thu, 24 Mar 2016 01:47:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
