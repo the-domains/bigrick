@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.blog.liv-ex.com/2016/03/interview-with-philippe-dhalluin-of-mouton-rothschild.html'
 title: Interview with Philippe Dhalluin of Mouton Rothschild
-datePublished: '2016-03-26T20:20:26.520Z'
-dateModified: '2016-03-26T20:12:26.855Z'
+datePublished: '2016-03-26T21:01:41.769Z'
+dateModified: '2016-03-26T21:01:25.107Z'
 sourcePath: _posts/2016-03-26-interview-with-philippe-dhalluin-of-mouton-rothschild.md
 published: true
 inFeed: true
