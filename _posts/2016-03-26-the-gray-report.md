@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.wblakegray.com/2016/03/double-barrel-wine-aged-in-used-whiskey.html'
 title: The Gray Report
-datePublished: '2016-03-26T20:20:26.469Z'
-dateModified: '2016-03-26T20:12:44.892Z'
+datePublished: '2016-03-26T21:06:29.295Z'
+dateModified: '2016-03-26T21:06:14.239Z'
 sourcePath: _posts/2016-03-26-the-gray-report.md
 published: true
 inFeed: true
