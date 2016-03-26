@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 20:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 20:21:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>French</p>]]></description>
+            <link>https://thegrid.ai/bigrick/french/index.html</link>
+            <guid isPermaLink="false">f562c39a-90f5-4c44-8e84-4d2292349761</guid>
+            <pubDate>Sat, 26 Mar 2016 20:20:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interview with Philippe Dhalluin of Mouton Rothschild]]></title>
             <description><![CDATA[<article><h1>Interview with Philippe Dhalluin of Mouton Rothschild</h1><p>The Managing Director of Mouton Rothschild, Philippe Dhalluin, has been overseeing winemaking at the property and several of its other estates for over a decade. At the beginning of March, he met with Liv-ex Director Anthony Maxwell to discuss developments at Mouton, the fine wine market and Bordeaux 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9f64a7acd5120ae6e50744eb7f07eadc5d1e3d4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.sonomanews.com/lifestyle/5418927-181/kathleen-hill-french-laundry-kitchen?artslide=0</link>
             <guid isPermaLink="false">ae42994d-ffb5-4d63-b006-ba47fea3c64f</guid>
             <pubDate>Fri, 25 Mar 2016 07:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc3a2381-47f3-4cdd-99d6-115145cfa19f.jpg">]]></description>
-            <link>https://thegrid.ai/bigrick/915caeb3-844e-462e-a144-58330493cc23/index.html</link>
-            <guid isPermaLink="false">915caeb3-844e-462e-a144-58330493cc23</guid>
-            <pubDate>Thu, 24 Mar 2016 01:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
