@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 21:07:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf9642a4-3b10-4103-b8c8-56e101ca9ee1.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/cde97144-717f-4e34-baf9-95371c3ab10e/index.html</link>
+            <guid isPermaLink="false">cde97144-717f-4e34-baf9-95371c3ab10e</guid>
+            <pubDate>Sat, 26 Mar 2016 21:05:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Gray Report]]></title>
             <description><![CDATA[<article><h1>The Gray Report</h1><p>Wine, it turns out, can be bi-curious. Australia's Jacob's Creek winery is making wine aged in whiskey barrels, and not just a few bottles either: 45,000 cases total of three varieties. While it seems like a stunt for the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a6aa5b9373809a131caba7292c0dd5e3c1813bd.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blogs.mercurynews.com/eat-drink-play/2016/03/23/5-great-wines-for-dungeness-crab/?utm_campaign=Echobox&amp;utm_medium=Social&amp;utm_source=Twitter#link_time=1458795984</link>
             <guid isPermaLink="false">46d39fd7-baf2-496a-ace6-2d3cede303a7</guid>
             <pubDate>Fri, 25 Mar 2016 19:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4ee9f19-dc50-41b3-8043-0d2b190016b7.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/bigrick/redwood-creek-mt-veeder/index.html</link>
-            <guid isPermaLink="false">5be609cf-f6d0-40d2-85dd-4a701a97d10a</guid>
-            <pubDate>Fri, 25 Mar 2016 18:35:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
