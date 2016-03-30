@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.winemag.com/2016/03/23/athletic-tastes/'
 title: 'What Your Favorite Sports Stars Drink | Wine Enthusiast Magazine'
-datePublished: '2016-03-30T19:27:42.757Z'
-dateModified: '2016-03-29T04:41:58.450Z'
+datePublished: '2016-03-30T19:30:51.920Z'
+dateModified: '2016-03-29T04:40:35.492Z'
 sourcePath: _posts/2016-03-30-what-your-favorite-sports-stars-drink-or-wine-enthusiast-maga.md
 published: true
 inFeed: true
