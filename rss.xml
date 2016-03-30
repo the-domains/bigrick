@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 19:15:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LikeWine: Sonoma Wines for Springtime - Sonoma Magazine]]></title>
+            <description><![CDATA[<article><h1>LikeWine: Sonoma Wines for Springtime - Sonoma Magazine</h1><p>Springtime is swing season, when white and rosé wines become more tempting, particularly for brunch-time meals and Easter. The additional sunlight of daylight saving time encourages the firing up of grills - a siren call for Zinfandel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab876e8161f9d96eb6ac46378380fda62336450.jpg"></article>]]></description>
+            <link>http://www.sonomamag.com/spring-wine/</link>
+            <guid isPermaLink="false">14169dd2-d9fb-4989-af23-28ec778e10fa</guid>
+            <pubDate>Wed, 30 Mar 2016 19:15:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cloverdale Hits Its Stride - Sonoma Magazine]]></title>
             <description><![CDATA[<article><h1>Cloverdale Hits Its Stride - Sonoma Magazine</h1><p>Thirty years ago, they whispered this about Healdsburg: "It's the next St. Helena." Could Cloverdale be the next Healdsburg? Some Cloverdalians think so. Despite its could-be-anywhere name, location in the northernmost edge of Sonoma County and reputation for lacking amenities and Wine Country culture, Cloverdale is coming on. New restaurants and boutiques.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/519509123e4b8d165ef87df9b6d03e13cc8245b9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/french-laundry-chickens/index.html</link>
             <guid isPermaLink="false">7141d6dd-bb56-4384-a2e2-ae86135e9887</guid>
             <pubDate>Sat, 26 Mar 2016 21:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bf4bc4c-8ba1-4e55-a4b4-0a301be03670.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/bigrick/2649d311-2d9d-492b-ace2-082fd2adc088/index.html</link>
-            <guid isPermaLink="false">2649d311-2d9d-492b-ace2-082fd2adc088</guid>
-            <pubDate>Sat, 26 Mar 2016 21:01:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
