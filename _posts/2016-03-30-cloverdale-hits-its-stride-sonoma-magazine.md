@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.sonomamag.com/cloverdale-hits-its-stride/'
 title: Cloverdale Hits Its Stride - Sonoma Magazine
-datePublished: '2016-03-30T18:51:58.112Z'
-dateModified: '2016-03-30T18:46:41.642Z'
+datePublished: '2016-03-30T19:27:42.783Z'
+dateModified: '2016-03-30T18:39:06.380Z'
 sourcePath: _posts/2016-03-30-cloverdale-hits-its-stride-sonoma-magazine.md
 published: true
 inFeed: true
