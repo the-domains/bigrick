@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 19:19:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mayacamas is Going to Be Fine. Really.]]></title>
+            <description><![CDATA[<article><h1>Mayacamas is Going to Be Fine. Really.</h1><p>Mayacamas is Going to Be Fine. Really.. The wine world is a funny place. So many people act like they have a monopoly on tradition, deliberately ignoring the continuity of human experience while glorifying the past.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d5e67a6aa538ab3341540357c8facb56b7a0ad1.jpg"></article>]]></description>
+            <link>http://www.vinography.com/archives/2016/03/mayacamas_is_going_to_be_fine_.html</link>
+            <guid isPermaLink="false">a924a1f5-50b5-4ddd-a294-65e8ab4b8ae9</guid>
+            <pubDate>Wed, 30 Mar 2016 19:19:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Celebrate California Sustainable Winegrowing During Down to Earth Month in April]]></title>
             <description><![CDATA[<article><h1>Celebrate California Sustainable Winegrowing During Down to Earth Month in April</h1><p>"People are interested in how their wines are grown and made, and our Down to Earth Month celebration is a way for wine consumers to learn about world leadership in sustainable winegrowing. A majority of the state's wineries and vineyards embrace sustainable practices, reflecting a major trend in wine community."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/911110a168851fae763749aad8d9d05851871734.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/cde97144-717f-4e34-baf9-95371c3ab10e/index.html</link>
             <guid isPermaLink="false">cde97144-717f-4e34-baf9-95371c3ab10e</guid>
             <pubDate>Sat, 26 Mar 2016 21:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gray Report]]></title>
-            <description><![CDATA[<article><h1>The Gray Report</h1><p>Wine, it turns out, can be bi-curious. Australia's Jacob's Creek winery is making wine aged in whiskey barrels, and not just a few bottles either: 45,000 cases total of three varieties. While it seems like a stunt for the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a6aa5b9373809a131caba7292c0dd5e3c1813bd.jpg"></article>]]></description>
-            <link>http://blog.wblakegray.com/2016/03/double-barrel-wine-aged-in-used-whiskey.html</link>
-            <guid isPermaLink="false">eadb6cf1-d24f-4146-a892-c6392e815bad</guid>
-            <pubDate>Sat, 26 Mar 2016 21:06:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
