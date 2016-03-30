@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 19:15:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4594fd7f-478b-41ae-ad4e-507ca8e6fb33.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/bigrick/count-me-as-a-big-fan-of-livermore-downtown-is-such-a-nice/index.html</link>
+            <guid isPermaLink="false">708fbc2e-b25f-438c-83e5-bae9960e0d4a</guid>
+            <pubDate>Wed, 30 Mar 2016 19:15:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LikeWine: Sonoma Wines for Springtime - Sonoma Magazine]]></title>
             <description><![CDATA[<article><h1>LikeWine: Sonoma Wines for Springtime - Sonoma Magazine</h1><p>Springtime is swing season, when white and rosé wines become more tempting, particularly for brunch-time meals and Easter. The additional sunlight of daylight saving time encourages the firing up of grills - a siren call for Zinfandel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab876e8161f9d96eb6ac46378380fda62336450.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coravin.com/blog/French_wines_before_you_die/</link>
             <guid isPermaLink="false">410aec13-0d6b-4643-af09-0facf4d7e1c0</guid>
             <pubDate>Sat, 26 Mar 2016 21:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3a02ef-a731-498e-9016-c715cb8a5b0e.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/bigrick/french-laundry-chickens/index.html</link>
-            <guid isPermaLink="false">7141d6dd-bb56-4384-a2e2-ae86135e9887</guid>
-            <pubDate>Sat, 26 Mar 2016 21:03:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
