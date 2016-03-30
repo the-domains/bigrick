@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 19:57:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Napa Cycle For Sight]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bigrick/cycle-for-sight-has-three-scenic-50-25-and-15-mile-courses/index.html</link>
             <guid isPermaLink="false">7c815fc6-9e78-4d66-a3ce-2e72b24bb81c</guid>
             <pubDate>Wed, 30 Mar 2016 19:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Most fun part of having a saber collection? Knowing how to lop off the top of a Champagne bottle cleanly http://on.wsj.com/25wj7n6</p>]]></description>
+            <link>https://twitter.com/WSJ/status/715195394343510016</link>
+            <guid isPermaLink="false">2488a973-7f75-4109-ae9e-92fd66f88087</guid>
+            <pubDate>Wed, 30 Mar 2016 19:56:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yountville Live Tickets]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.prnewswire.com/news-releases/dulce-dorado-tequila-the-first-honey-vanilla-infused-tequila-in-the-usa-a-century-old-recipe-300242184.html#continue-jump</link>
             <guid isPermaLink="false">13127b77-062a-4ccb-b9d1-f8b26f2de98a</guid>
             <pubDate>Wed, 30 Mar 2016 19:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Napa Valley: celebrating 40 years of world-class wines]]></title>
-            <description><![CDATA[<article><h1>Napa Valley: celebrating 40 years of world-class wines</h1><p>The alcove looks like a shrine. But instead of a religious relic, the focus of attention is a wine bottle. A sign reads: "1st Place 1976 Paris Tasting". On the left, are judges' scores; to the right, a page from the June 7, 1976 issue of Time magazine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da52057b78e1bc6ff8a944ac2767b7dd8276648c.jpg"></article>]]></description>
-            <link>http://www.telegraph.co.uk/travel/destinations/north-america/united-states/california/articles/napa-valley-celebrating-40-years-of-world-class-wines/</link>
-            <guid isPermaLink="false">04fa0ee2-8337-4619-b18a-5ecd7acb3af6</guid>
-            <pubDate>Wed, 30 Mar 2016 19:26:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
