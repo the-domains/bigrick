@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 19:27:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Napa Valley's Iconic Auberge du Soleil: A Decadent Newly Remodeled Sanctuary]]></title>
+            <description><![CDATA[<article><h1>Napa Valley's Iconic Auberge du Soleil: A Decadent Newly Remodeled Sanctuary</h1><p>Auberge du Soleil in the Napa Valley The sun was shining, and a glorious crystal blue sky welcomed my arrival into Napa Valley. I was worried that my entire trip would be in heavy rains like the last time I visited. While the cold misty weather is perfect for wine tasting [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74e7a3b00e2d301acfbbba7161b06cd0c8ea10b1.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/jimdobson/2016/03/29/napa-valleys-iconic-auberge-du-soleil-a-decadent-newly-remodeled-sanctuary/#1b5a67a12a8e</link>
+            <guid isPermaLink="false">54e34ebf-258a-4c37-8666-c2a011522efa</guid>
+            <pubDate>Wed, 30 Mar 2016 19:26:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mayacamas is Going to Be Fine. Really.]]></title>
             <description><![CDATA[<article><h1>Mayacamas is Going to Be Fine. Really.</h1><p>Mayacamas is Going to Be Fine. Really.. The wine world is a funny place. So many people act like they have a monopoly on tradition, deliberately ignoring the continuity of human experience while glorifying the past.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d5e67a6aa538ab3341540357c8facb56b7a0ad1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/the-french-laundry-garden/index.html</link>
             <guid isPermaLink="false">eec33747-6ce8-46ce-a74d-f42e7e716f11</guid>
             <pubDate>Sat, 26 Mar 2016 21:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf9642a4-3b10-4103-b8c8-56e101ca9ee1.jpg">]]></description>
-            <link>https://thegrid.ai/bigrick/cde97144-717f-4e34-baf9-95371c3ab10e/index.html</link>
-            <guid isPermaLink="false">cde97144-717f-4e34-baf9-95371c3ab10e</guid>
-            <pubDate>Sat, 26 Mar 2016 21:05:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
