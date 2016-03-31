@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 17:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 17:55:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Booming Demand Is Making Vanilla Taste Worse]]></title>
+            <description><![CDATA[<article><h1>Why Booming Demand Is Making Vanilla Taste Worse</h1><p>There's nothing plain about the vanilla market. The price of the bean used to flavor everything from ice cream and chocolate to cola and pastries more than tripled in the past year as output slipped and quality suffered. That should have been a boon for top producer Madagascar, the island nation off Africa's southeast coast.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37ed9023e54a9f4e55e47c19446bc86e54b891e5.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-03-28/sky-high-cost-of-top-ice-cream-flavoring-is-hardly-plain-vanilla</link>
+            <guid isPermaLink="false">7df9d031-3243-4fdb-9db4-47d7a3486ac4</guid>
+            <pubDate>Thu, 31 Mar 2016 17:55:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ask Well: Can Vinegar Aid Weight Loss?]]></title>
             <description><![CDATA[<article><h1>Ask Well: Can Vinegar Aid Weight Loss?</h1><p>A Vinegar in various forms - including cider, wine, rice, white distilled and others - has been put to use for medicinal purposes for centuries, with Hippocrates recommending it for treating sores. And some people today apply it to soothe jellyfish stings, said Carol S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11078c5e5f6a2850fb05bcbc701190582ec2da57.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.7x7.com/eat-drink/sonoma-county-wine-lovers-strike-vineyard-gold-patz-hall</link>
             <guid isPermaLink="false">a5959575-d1ce-4444-bca7-2523e63f9537</guid>
             <pubDate>Wed, 30 Mar 2016 19:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Get a Table at the Hottest Restaurants]]></title>
-            <description><![CDATA[<article><h1>How to Get a Table at the Hottest Restaurants</h1><p>Fernando Peire had just joined the Ivy as maître d' in 1990 when a man telephoned wanting to dine at 10:30 p.m. the next day. "My instinct was to take the reservation: He had the most elegant voice I had ever heard," says Peire, 56.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/017ebc120eb4defc68b02de7dba09c54d1dfd7e8.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-03-24/tips-on-how-to-get-a-table-at-the-hottest-restaurants?cmpid=BBD033016_PUR</link>
-            <guid isPermaLink="false">7b200a09-1ae3-4924-9e46-1a0e93e42c4c</guid>
-            <pubDate>Wed, 30 Mar 2016 19:40:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
