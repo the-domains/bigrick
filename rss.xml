@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 20:22:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee7bfe1-a7d1-47be-a8a1-bee8b4491712.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/e39ffd90-f9b9-4b9d-9a2e-d22d33024f9e/index.html</link>
+            <guid isPermaLink="false">e39ffd90-f9b9-4b9d-9a2e-d22d33024f9e</guid>
+            <pubDate>Fri, 08 Apr 2016 20:21:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/507a93cc-37dc-43e7-8d48-658b7c366f83.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>5 Gourmet Wine Experiences in Napa</h1><p>Some of the best food and wine in Napa can't be found at restaurants, but at wineries. You'll have to reserve ahead, but these splurge-worthy tours offer gastronomic experiences that go far beyond the swirl, sip, and spit routine you'll find at most tasting rooms. Some programs offer a meal while others serve simple bites to accompany a flight of wines, but either way, it makes for a very memorable wine country experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ba7abac6d863edfeb72b2aa4805afcf5665a8a1.jpg"></article>]]></description>
             <link>http://www.fodors.com/world/north-america/usa/california/napa-and-sonoma/experiences/news/5-gourmet-wine-experiences-in-napa-11726</link>
             <guid isPermaLink="false">183c5520-7e54-420c-86c1-5cb5fb1635bb</guid>
-            <pubDate>Wed, 06 Apr 2016 23:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Minnesota to California, another winemaker finds success]]></title>
-            <description><![CDATA[<article><h1>From Minnesota to California, another winemaker finds success</h1><p>"The average aging of a wine takes place in the back seat of the car on the way home." That's one of my favorite wine aphorisms. Minnesota native Jeff Runquist clearly follows that philosophy. At his winery of the same name in California's Amador County, Runquist crafts what he aptly calls "youthful, zesty wine that is at its peak when it goes in the bottle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adbc024d53e8b3b29b41238fe8ee8954b1408814.jpg"></article>]]></description>
-            <link>http://www.startribune.com/from-minnesota-to-california-another-winemaker-finds-success/374005751/</link>
-            <guid isPermaLink="false">34dbf624-3ff5-4fd5-9b8e-52b0eb8c5086</guid>
             <pubDate>Wed, 06 Apr 2016 23:42:05 GMT</pubDate>
         </item>
     </channel>
