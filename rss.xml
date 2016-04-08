@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 20:20:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/507a93cc-37dc-43e7-8d48-658b7c366f83.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/c5b689da-a37a-4840-85aa-1c7729a5cf2d/index.html</link>
+            <guid isPermaLink="false">c5b689da-a37a-4840-85aa-1c7729a5cf2d</guid>
+            <pubDate>Fri, 08 Apr 2016 20:20:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc35e000-197e-4a26-be42-ac707b590830.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>From Minnesota to California, another winemaker finds success</h1><p>"The average aging of a wine takes place in the back seat of the car on the way home." That's one of my favorite wine aphorisms. Minnesota native Jeff Runquist clearly follows that philosophy. At his winery of the same name in California's Amador County, Runquist crafts what he aptly calls "youthful, zesty wine that is at its peak when it goes in the bottle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adbc024d53e8b3b29b41238fe8ee8954b1408814.jpg"></article>]]></description>
             <link>http://www.startribune.com/from-minnesota-to-california-another-winemaker-finds-success/374005751/</link>
             <guid isPermaLink="false">34dbf624-3ff5-4fd5-9b8e-52b0eb8c5086</guid>
-            <pubDate>Wed, 06 Apr 2016 23:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bettinelli named Napa Valley Grower of the Year]]></title>
-            <description><![CDATA[<article><h1>Bettinelli named Napa Valley Grower of the Year</h1><p>Larry Bettinelli has been named 2016 Napa Valley Grower of the Year by a local agricultural trade group. The fifth generation of Napa Valley farmers, Bettinelli will be honored by Napa Valley Grapegrowers ( napagrowers.org) in May for his contributions to local wine business and community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f0d2296921a438211324aea4294261bf6dee059.jpg"></article>]]></description>
-            <link>http://www.northbaybusinessjournal.com/northbay/napacounty/5446498-181/bettinelli-napa-valley-winegrower</link>
-            <guid isPermaLink="false">2d470cab-2fdd-46ef-a87d-96efb096d9ca</guid>
             <pubDate>Wed, 06 Apr 2016 23:42:05 GMT</pubDate>
         </item>
     </channel>
