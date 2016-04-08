@@ -4,8 +4,22 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 20:34:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="This Kickstarter campaign wants to put an electronic wine expert in your kitchen http://cnet.co/1Wh0tM0" src="https://pbs.twimg.com/media/CfgfAvsXIAI310p.jpg:large">]]></description>
+            <link>https://twitter.com/CNET/status/718358239075823616</link>
+            <guid isPermaLink="false">2d175f41-d619-4f0a-950f-5a67a6410e2b</guid>
+            <pubDate>Fri, 08 Apr 2016 20:34:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Filipino cooking has (finally) arrived on the scene http://on.wsj.com/22gRKsF" src="https://pbs.twimg.com/media/CffsOpHW4AE_28C.jpg:large">]]></description>
+            <link>https://twitter.com/WSJ/status/718302402810658818</link>
+            <guid isPermaLink="false">ec60dbc9-7f3c-48d7-b345-ee093a30b8c8</guid>
+            <pubDate>Fri, 08 Apr 2016 20:34:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Q&A: Can a wine be light-bodied and still have a "round mouthfeel"? http://ow.ly/3dkzDl</p>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/bigrick/161bb621-92b0-4af1-af2e-95fde4b06f07/index.html</link>
             <guid isPermaLink="false">161bb621-92b0-4af1-af2e-95fde4b06f07</guid>
             <pubDate>Fri, 08 Apr 2016 20:12:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terroir is a Myth - Fermentation]]></title>
-            <description><![CDATA[<article><h1>Terroir is a Myth - Fermentation</h1><p>The idea that "Terroir" is the source of fine wine flavor is a myth. This is according to Professor Mark Matthews at the University of California, Davis in his new and controversial book: "Terroir and Other Myths of Winemaking." As the title of this new book implies, the myth of terroir is only part of Matthews' investigation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8748fc4e4fd62ba273e920f66772c9da1c60aa91.jpg"></article>]]></description>
-            <link>http://fermentationwineblog.com/2016/04/terroir-is-myth/</link>
-            <guid isPermaLink="false">0a0f2227-b25b-45cc-8259-a18fca61c324</guid>
-            <pubDate>Fri, 08 Apr 2016 20:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weekly New York Wine News - April 4, 2016]]></title>
-            <description><![CDATA[<article><h1>Weekly New York Wine News - April 4, 2016</h1><p>Co-owner and winemaker Paul Brock pruning vines in the estate vineyard at Silver Thread Vineyard. Edible East End - 3/22/2016 Long Island vintners line up their 2013 reds for market, and believe that the vintage will be a long-lived one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2615324b34c90c246152cd428a754f2bc7d61568.jpg"></article>]]></description>
-            <link>http://newyorkcorkreport.com/blog/2016/04/04/weekly-new-york-wine-news-april-4-2016/</link>
-            <guid isPermaLink="false">c525556f-5543-48cd-ba32-c688e60f6c69</guid>
-            <pubDate>Fri, 08 Apr 2016 20:01:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
