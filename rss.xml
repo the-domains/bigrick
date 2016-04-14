@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 22:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 22:41:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85ba6bc2-fd3c-49ca-bbd0-53001a1b5e5b.jpg">]]></description>
+            <link>http://www.northbaybusinessjournal.com/northbay/sonomacounty/5447534-181/millennial-boomer-wine-consumption</link>
+            <guid isPermaLink="false">427f0ab9-32a2-4ceb-ba02-23dc0a8ccc03</guid>
+            <pubDate>Thu, 14 Apr 2016 22:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pebble Beach Food and Wine Redefines Luxury - 7th Time is the Charm | PalateXposure]]></title>
             <description><![CDATA[<article><h1>Pebble Beach Food and Wine Redefines Luxury - 7th Time is the Charm | PalateXposure</h1><p>The Pebble Beach Food & Wine Festival (PBFW) titled "7th Time Down the Line," to commemorate its seventh year, is a four-day feast for the senses; a cornucopia of food and wine that borders on obscene opulence. It seduces patrons with a never-ending array of events, showcasing food and wines that are captivating, awe-inspiring and just plain fun.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbdced8e03748570590a5c0bd479433f9adeec64.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bigrick/e39ffd90-f9b9-4b9d-9a2e-d22d33024f9e/index.html</link>
             <guid isPermaLink="false">e39ffd90-f9b9-4b9d-9a2e-d22d33024f9e</guid>
             <pubDate>Fri, 08 Apr 2016 20:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/507a93cc-37dc-43e7-8d48-658b7c366f83.jpg">]]></description>
-            <link>https://thegrid.ai/bigrick/c5b689da-a37a-4840-85aa-1c7729a5cf2d/index.html</link>
-            <guid isPermaLink="false">c5b689da-a37a-4840-85aa-1c7729a5cf2d</guid>
-            <pubDate>Fri, 08 Apr 2016 20:20:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
