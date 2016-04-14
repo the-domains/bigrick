@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 22:39:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Napa Valley Wineries to Visit]]></title>
+            <description><![CDATA[<article><h1>Best Napa Valley Wineries to Visit</h1><p>The best Napa Valley wineries to visit feature a tasting room in a cave, artisanal cheese pairings, on-site sommeliers and more-Megan Krigbaum; rese...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7b9fb33d35c1929d25ce4a24f8149b95865fda7.jpg"></article>]]></description>
+            <link>http://www.foodandwine.com/slideshows/best-napa-valley-wineries-to-visit?xid=soc_socialflow_twitter_fw</link>
+            <guid isPermaLink="false">78b8a8ca-af93-4b38-acf5-8e49944352a8</guid>
+            <pubDate>Thu, 14 Apr 2016 22:39:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="This Kickstarter campaign wants to put an electronic wine expert in your kitchen http://cnet.co/1Wh0tM0" src="https://pbs.twimg.com/media/CfgfAvsXIAI310p.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://wakawakawinereviews.com/2016/04/06/walla-walla-early-hot-but-good/</link>
             <guid isPermaLink="false">99dae190-7d19-478e-940a-05ed67e758f6</guid>
             <pubDate>Fri, 08 Apr 2016 20:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be97defe-9bb3-4112-b191-465063e67779.jpg">]]></description>
-            <link>https://thegrid.ai/bigrick/161bb621-92b0-4af1-af2e-95fde4b06f07/index.html</link>
-            <guid isPermaLink="false">161bb621-92b0-4af1-af2e-95fde4b06f07</guid>
-            <pubDate>Fri, 08 Apr 2016 20:12:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
