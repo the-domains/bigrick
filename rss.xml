@@ -4,15 +4,8 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 04:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 04:36:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SpoonRocket shuts down amongst on-demand apocalypse]]></title>
-            <description><![CDATA[<article><h1>SpoonRocket shuts down amongst on-demand apocalypse</h1><p>SpoonRocket informed its investors it's shutting down its on-demand pre-made meal delivery service after failing to raise the necessary capital to continue operations. [ Update: Co-founder Steven Hsiao confirmed SpoonRocket's shut down. The company published a goodbye blog post saying it will transition customers to competitor Sprig, which is offering SpoonRocket users a $10 discount.]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9308ee1eba41009bb9ecffb43fb1a48b056806b3.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/03/15/spoonrocket-shuts-down/</link>
-            <guid isPermaLink="false">48da3b95-85dc-41a3-b3da-038b1ad0a2a3</guid>
-            <pubDate>Tue, 26 Apr 2016 04:34:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sonoma Cider opening taproom in Healdsburg this summer]]></title>
             <description><![CDATA[<article><h1>Sonoma Cider opening taproom in Healdsburg this summer</h1><p>The past few years have been booming for the hard cider business, including Sonoma County, which is home to the beloved Gravenstein heirloom apple. For decades, Sebastopol has been home to what is considered the country's first modern cider pub, Ace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/463d78c7fe1afcaf4bb10e9f019fc94d9ad16557.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.winebusiness.com/blog/?go=getBlogEntry&amp;dataId=167729</link>
             <guid isPermaLink="false">19474e69-4254-4b3b-93c4-dc1df37f499f</guid>
             <pubDate>Tue, 26 Apr 2016 04:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big Rick Joins Napa's 99.3 The Vine]]></title>
+            <description><![CDATA[<article><h1>Big Rick Joins Napa's 99.3 The Vine</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/bigrick/big-rick-joins-napas-993-the-vine/index.html</link>
+            <guid isPermaLink="false">edea4efb-58a3-4a92-98fb-2bc01c7d1c11</guid>
+            <pubDate>Sat, 23 Apr 2016 18:10:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
