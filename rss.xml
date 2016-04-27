@@ -4,15 +4,8 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 17:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 17:31:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Events - California Wines]]></title>
-            <description><![CDATA[<article><h1>Events - California Wines</h1><p>A fascinating look at a sustainable, working winery. Embark on our 10-passenger electric bus and tour our 310 acre ranch. Learn about our grape growing philosophy as you taste three signature Ponte wines, next to the vineyards they come from.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b721547e3f20b6287b414bc8a5e01fd0638830c6.jpg"></article>]]></description>
-            <link>http://www.discovercaliforniawines.com/events/</link>
-            <guid isPermaLink="false">ca1f4bbd-0cd7-42fa-9062-b32ef20e8c67</guid>
-            <pubDate>Wed, 27 Apr 2016 17:31:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[INDEPENDENT BOOKSTORE DAY: DAN DUNN]]></title>
             <description><![CDATA[<article><h1>INDEPENDENT BOOKSTORE DAY: DAN DUNN</h1><p>MEET AUTHOR DAN DUNN American Wino: A Tale of Reds, Whites, and One Man's Blues Part travel memoir, part exploration of wine, American Wino follows certified beer and spirits expert and writer Dan Dunn as he travels to wineries both good and bad across America in an attempt to become the ultimate blue-collar wine expert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1cc76127f56a4e4841f6f79625b0de9c1765134.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://vinepair.com/wine-blog/how-to-discover-hidden-wine-gems-at-the-corner-liquor-store/</link>
             <guid isPermaLink="false">267ea130-9180-4f1b-aab3-cddd57ad781a</guid>
             <pubDate>Tue, 26 Apr 2016 04:28:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big Rick Stuart 10am-3pm]]></title>
+            <description><![CDATA[<article><h1>Big Rick Stuart 10am-3pm</h1><p>Big Rick Stuart is a big fan of the Napa Valley.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38889a84821ad6cc31dc896f081da499adb77f9b.jpg"></article>]]></description>
+            <link>http://www.993thevine.com/pages/22688842.php?</link>
+            <guid isPermaLink="false">593c31a1-3e50-44e9-a2ef-9365a95f26d7</guid>
+            <pubDate>Tue, 26 Apr 2016 04:19:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
