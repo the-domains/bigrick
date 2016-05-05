@@ -1,6 +1,6 @@
 name: Big Rick Stuart
 favicon: null
-layout_spectrum: 0.98707
+layout_spectrum: 0.24169
 typography_spectrum: 0.6612805670592934
 title: Hardly Strictly Wine Blog
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#8a8989'
     - '#23ad51'
-  brandStrength: 0.25
+  brandStrength: 0.75
   lightness: 0.6875
   saturation: 0.5
   rhythmicContrast: 0.5
