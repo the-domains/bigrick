@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T19:04:11.625Z'
-dateModified: '2016-02-11T18:48:58.523Z'
+datePublished: '2016-05-05T00:35:02.501Z'
+dateModified: '2016-02-18T19:10:24.300Z'
 title: contact Rick at BigRick dot com
 authors: []
 publisher:
@@ -17,7 +17,6 @@ publisher:
   favicon: null
 author: []
 sourcePath: _posts/2016-02-11-contact-rick-at-bigrick-dot-com.md
-published: true
 url: contact-rick-at-bigrick-dot-com/index.html
 _type: Article
 
