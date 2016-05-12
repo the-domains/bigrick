@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 22:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 18:29:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[California wines shines at Riva Grill - Tahoe Weekly]]></title>
+            <description><![CDATA[<article><h1>California wines shines at Riva Grill - Tahoe Weekly</h1><p>For almost two decades, Riva Grill has been a favorite spot to wine and dine on Lake Tahoe's South Shore. Viewed from the lake on a winter's eve it shines star bright, and in summer it features sun-drenched decks with lake and mountain views to amaze.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/682561b6d0e82beb019952b4ae12d3d840b68f64.jpg"></article>]]></description>
+            <link>http://thetahoeweekly.com/2016/05/california-wines-shines-riva-grill/</link>
+            <guid isPermaLink="false">3c7ccbb9-4dfe-4d4a-a9ed-6aa939268e71</guid>
+            <pubDate>Thu, 12 May 2016 18:29:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kitchen Confidential: Matthew Lightner Creates Culinary Magic in Napa]]></title>
             <description><![CDATA[<article><h1>Kitchen Confidential: Matthew Lightner Creates Culinary Magic in Napa</h1><p>Sometimes a space, location and chef come together in perfect harmony to create a restaurant that's so deliciously innovative it's unlike any other eatery out there. The Napa Valley is sprinkled with this type of memorable, almost magical restaurant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65e165875d0dbce246a656057d0c6bc3db3eeba2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.forbes.com/sites/drosengarten/2016/03/29/the-great-wine-and-cheese-inquiry/#50e34fc21450</link>
             <guid isPermaLink="false">a2be8cb3-6274-45e7-9e2e-d7f92550b803</guid>
             <pubDate>Sat, 07 May 2016 21:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yountville hotels, V Marketplace sell for record $148 million]]></title>
-            <description><![CDATA[<article><h1>Yountville hotels, V Marketplace sell for record $148 million</h1><p>In what could be the largest private sale of a Napa County lodging and shopping property, the Vintage Estate of Yountville has sold for $148 million. On April 26, Brookfield Hotel Properties of Maryland bought the 22-acre Napa Valley property from the Egan, Ghilotti and Sandbach families.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/295034eba65533edf776e72f12ac582694cb0cf1.jpg"></article>]]></description>
-            <link>http://napavalleyregister.com/business/yountville-hotels-v-marketplace-sell-for-record-million/article_d75c669e-c26d-5119-ba80-18f090c193c1.html</link>
-            <guid isPermaLink="false">aa15bd1d-3c0a-4ce8-b031-732a76cd6aea</guid>
-            <pubDate>Sat, 07 May 2016 18:59:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
