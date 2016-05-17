@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 04:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 04:33:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wine briefs: Sequoia Grove's Busquaert earns top award]]></title>
+            <description><![CDATA[<article><h1>Wine briefs: Sequoia Grove's Busquaert earns top award</h1><p>Sequoia Grove's Busquaert earns top award Dean Busquaert, senior wine educator at Sequoia Grove Winery, was awarded the Robert Mondavi Excellence Award by the Concierge Alliance of Napa Valley and Sonoma (CANVAS).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1b0ba49b6070c3e636090d060d49c228345aa03.jpg"></article>]]></description>
+            <link>http://napavalleyregister.com/star/wine/wine-briefs-sequoia-grove-s-busquaert-earns-top-award/article_67f2d26a-ad04-56d6-a851-5ed947c79941.html</link>
+            <guid isPermaLink="false">d72a7eda-6289-4197-8505-498a99e9a281</guid>
+            <pubDate>Tue, 17 May 2016 04:33:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NVV announces Restaurant Wine List Award winners]]></title>
             <description><![CDATA[<article><h1>NVV announces Restaurant Wine List Award winners</h1><p>The Napa Valley Vintners recently announced the recipients of its 2016 Napa Valley Wine List Awards at a community celebration at Goosecross Cellars in Yountville. The event included restaurant award recipients, local vintners and community officials. More than 85 restaurants, from the pioneering All Seasons restaurant in Calistoga to newcomer Basalt in Napa, were recognized for their emphasis on serving local wines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f95dac37c2c4ae6e2767721361d18d8e62080af.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.sfchronicle.com/food/eatup/article/Catch-the-region-s-best-sandwiches-at-this-Napa-7440560.php</link>
             <guid isPermaLink="false">8953a66b-5f94-4287-9e3a-dcc49701241b</guid>
             <pubDate>Tue, 10 May 2016 22:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Napa mom' touches the world]]></title>
-            <description><![CDATA[<article><h1>'Napa mom' touches the world</h1><p>For nearly a dozen young winemakers from Europe and South America, Napa resident Linda Hansen is like a second mother. During each year's harvest season, Hansen said, hundreds of international winemakers stay with host families in Napa and Sonoma. Hansen has been hosting visiting winemakers since 2009 and typically hosts one to three of these interns at a time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b773f0bf46036ae5632de7d67bcd8072370d230.jpg"></article>]]></description>
-            <link>http://napavalleyregister.com/news/local/napa-mom-touches-the-world/article_84499652-ee9a-53d6-9898-1f6b7f0bcc05.html</link>
-            <guid isPermaLink="false">09e67280-8fa8-410b-983a-749374a1982a</guid>
-            <pubDate>Mon, 09 May 2016 18:06:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
