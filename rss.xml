@@ -4,13 +4,20 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 05:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 05:10:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vote: Is This a Barbecue or a Cookout?]]></title>
             <description><![CDATA[<article><h1>Vote: Is This a Barbecue or a Cookout?</h1><p>If an outdoor event with a grill serves meat, but no barbecue, is it still a barbecue? The answer to that might depend on where you live. In parts of America, the word "barbecue" is used loosely.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c930fd4e794a1635479398d6dda4146e/noop.jpg?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F6647405%2Fburgers-hot-dogs.0.jpg"></article>]]></description>
             <link>http://www.eater.com/2016/6/14/11919120/barbecue-versus-cookout</link>
             <guid isPermaLink="false">081003d9-a631-4896-8f8d-099d8357859c</guid>
+            <pubDate>Mon, 20 Jun 2016 05:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simply Delicious: Citrus Chicken Recipe]]></title>
+            <description><![CDATA[<article><h1>Simply Delicious: Citrus Chicken Recipe</h1><p>Cooking chicken with fruits and herbs adds delicious flavor that can mix-up the humdrum chicken dinner.Â Try this simple dish made with mandarin orange and fresh rosemary that you can make in30 minutes or less!Â Serve it with a green vegetable like steamed broccoli or asparagus and my "Roasted Rosemary Potatoes"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea437c5ff336fca2bc405fde21aeb87e/noop.jpg?input=http%3A%2F%2Fmedia.jrn.com%2Fimages%2Fcitruschickenl-1024x768_1421789431086_12680053_ver1.0_640_480.jpg"></article>]]></description>
+            <link>http://www.vcstar.com/lifestyle/columnists/simply-delicious-citrus-chicken-recipe-ep-888787736-349265591.html</link>
+            <guid isPermaLink="false">a16442a5-caba-47b3-a46b-28e2221f5424</guid>
             <pubDate>Mon, 20 Jun 2016 05:09:16 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://napavalleyregister.com/lifestyles/food-and-cooking/prot-a-brings-a-bit-of-puerto-rico-to-yountville/article_4fe5c13e-62f1-51b3-9395-bc4ac9eed4aa.html</link>
             <guid isPermaLink="false">8a5a3927-1660-4187-a1cc-a6a626c763ae</guid>
             <pubDate>Thu, 16 Jun 2016 23:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18 coastal California breweries worth the trip]]></title>
-            <description><![CDATA[<article><h1>18 coastal California breweries worth the trip</h1><p>Let's start off with a grand, but true statement: California is home to the best beers in the U.S. Our state plays host to ingenious brewers who are willing collaborators with curious palates, and to our benefit, those sorts of people just serve the west coast well (sometimes literally).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00e4159977909ebd0a33d69e789349a82c40a558.jpg"></article>]]></description>
-            <link>http://www.sfgate.com/food/article/18-coastal-California-breweries-worth-the-trip-7971708.php</link>
-            <guid isPermaLink="false">623acb43-09bd-4bdf-9678-a6bc3b48816b</guid>
-            <pubDate>Mon, 13 Jun 2016 05:31:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
