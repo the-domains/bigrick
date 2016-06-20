@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 05:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 05:09:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Millennials and brand loyalty: My thoughts]]></title>
+            <description><![CDATA[<article><h1>Millennials and brand loyalty: My thoughts</h1><p>When Gallup says Millennials are "t he least-engaged generation of customers," with "the lowest level of customer engagement" of any group of consumers in the country, a couple thoughts come to mind. Those conclusions come from Gallup's recent study, "How Millennials Want to Work and Live."</p></article>]]></description>
+            <link>http://www.steveheimoff.com/index.php/2016/06/16/millennials-and-brand-loyalty-my-thoughts/</link>
+            <guid isPermaLink="false">165dcc91-341f-44f2-ac69-fde290beb1fe</guid>
+            <pubDate>Mon, 20 Jun 2016 05:09:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sparkling wine - it's not just from France anymore]]></title>
             <description><![CDATA[<article><h1>Sparkling wine - it's not just from France anymore</h1><p>Bubbly, Champers, Sparklers, Fizz - when consumers are looking for sparkling wine, they are no longer simply being offered French Champagne. Other country's products, like Italian Prosecco, Spanish Cava and US Méthode Champenoise are flooding the market. In April, I gave a presentation at the 2016 Sparkling Wine Symposium in Oregon and here are a...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae2f37358e6c3d42640cd381b667fa52/noop?input=https%3A%2F%2Fvinsightsgwp.files.wordpress.com%2F2016%2F06%2Fchart-capture.jpg%26h%3D163"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://sf.eater.com/2016/6/6/11873026/protea-open-yountville</link>
             <guid isPermaLink="false">f0cad9e4-0687-4c6e-974b-e1ec035814f0</guid>
             <pubDate>Mon, 13 Jun 2016 05:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DINING: In-N-Out scores best burger title again in poll]]></title>
-            <description><![CDATA[<article><h1>DINING: In-N-Out scores best burger title again in poll</h1><p>Irvine-based In-N-Out Burger can thank its die-hard fans for making it the "best burger" brand in the country for the second year in a row, according to a Harris Poll released Thursday. The 28th survey studies the strongest brands in nearly 100 categories - from travel to retail to restaurants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c48986036e24cff32d902f2cc39333cf397d0ce.jpg"></article>]]></description>
-            <link>http://www.pe.com/articles/burger-805311-dining-brand.html</link>
-            <guid isPermaLink="false">77d4c525-7c67-42a5-8777-a4cbe91b303c</guid>
-            <pubDate>Mon, 13 Jun 2016 05:31:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
