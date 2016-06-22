@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://mashable.com/2016/06/15/customer-leaves-1000-tip-asks-back/?utm_cid=mash-com-Tw-main-link#9GZrwYnlrPqs
 title: 'Drunk customer leaves $1,000 tip, returns the next morning to take it back'
-datePublished: '2016-06-22T06:18:06.511Z'
-dateModified: '2016-06-22T06:06:45.989Z'
+datePublished: '2016-06-22T06:18:06.512Z'
+dateModified: '2016-06-22T06:17:44.578Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-22-drunk-customer-leaves-dollar1000-tip-returns-the-next-morning-t.md
