@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://winefolly.com/review/wine-additives-explained/'
 title: Wine Additives Explained | Wine Folly
-datePublished: '2016-06-22T06:18:07.454Z'
-dateModified: '2016-06-22T05:57:04.289Z'
+datePublished: '2016-06-22T17:27:26.786Z'
+dateModified: '2016-06-22T17:26:44.919Z'
 starred: false
 sourcePath: _posts/2016-06-22-wine-additives-explained-or-wine-folly.md
 inFeed: true
