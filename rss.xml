@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 18:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 18:05:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paso Robles: History in the Glass]]></title>
+            <description><![CDATA[<article><h1>Paso Robles: History in the Glass</h1><p>Our second day in Paso Robles was billed as a "vineyard to glass" experience. We started with our chariot bus from Breakaway Tours where Owner Jill Tweedie helped start our journey in style. We arrived at the train-themed Pomar Junction Vineyard & Winery, where Matt Merrill, the general manager, and Jim Shumate, the winemaker, greeted us with a tour.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d306c4517b72814677438920f4c77be/noop.jpg?input=http%3A%2F%2Fwww.dallaswinechick.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fthumb_IMG_1837_1024-430x573.jpg"></article>]]></description>
+            <link>http://www.dallaswinechick.com/paso-robles-history-in-the-glass/</link>
+            <guid isPermaLink="false">0f1f6394-1795-4b11-956d-f3923214a7e8</guid>
+            <pubDate>Thu, 30 Jun 2016 18:05:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81fe6973-5997-4b04-9174-0847c633ef33.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://thelordofthechefs.com/2016/06/22/which-wine-with-which-cheese/</link>
             <guid isPermaLink="false">9378990e-28fc-4a27-b6e6-5f062dc9eb4a</guid>
             <pubDate>Mon, 27 Jun 2016 18:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning to Make the Best Pizza in the World]]></title>
-            <description><![CDATA[<article><h1>Learning to Make the Best Pizza in the World</h1><p>From All great teachers have their own strange quirks. Why should master pizza professors be any different? This thought occurs to me as Enzo Coccia, who runs a world-renowned pizza academy and two of the finest pizza restaurants in Naples, shouts, "Attack! Attack!" just inches from my ear.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/03f82c232915e2e44b913833261e8036/croprotate.jpg?cropheight=1347&cropwidth=2200&degrees=0&input=http%3A%2F%2Fwww.bloomberg.com%2Ffeatures%2F2016-enzo-coccia-pizza-school%2Fimg%2Fmystic-pizza-naples-lede.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.bloomberg.com/features/2016-enzo-coccia-pizza-school/?cmpid=BBD062216_PUR</link>
-            <guid isPermaLink="false">301ffe86-0b3c-472e-a94e-19493972fac4</guid>
-            <pubDate>Wed, 22 Jun 2016 18:19:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
