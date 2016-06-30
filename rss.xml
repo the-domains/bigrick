@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 17:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 18:03:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81fe6973-5997-4b04-9174-0847c633ef33.jpg">]]></description>
+            <link>https://thegrid.ai/bigrick/just-another-day-in-yountville/index.html</link>
+            <guid isPermaLink="false">a99476c6-1796-4872-ad61-aa0a51aa0b15</guid>
+            <pubDate>Thu, 30 Jun 2016 18:03:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top Ten California Cabernet Francs | PalateXposure]]></title>
             <description><![CDATA[<article><h1>Top Ten California Cabernet Francs | PalateXposure</h1><p>Bouchet, now known as Cabernet Franc, originated in southwestern France in the 17th century, and soon made its way to the Loire Valley, courtesy of Cardinal Richelieu, who transported the budwood. By the 18th century, plantings of Bouchet appeared in various regions, including Pomerol and St-Emilion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a803fc435058d18f3f24ebd5194a0769/noop.jpg?input=https%3A%2F%2Fwww.palatexposure.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fcab-franc-grapes-into-the-crush.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bloomberg.com/features/2016-enzo-coccia-pizza-school/?cmpid=BBD062216_PUR</link>
             <guid isPermaLink="false">301ffe86-0b3c-472e-a94e-19493972fac4</guid>
             <pubDate>Wed, 22 Jun 2016 18:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wine Additives Explained | Wine Folly]]></title>
-            <description><![CDATA[<article><h1>Wine Additives Explained | Wine Folly</h1><p>Let's take a look at what additives are commonly used in winemaking. Some of them are useful for making great wine, and others could be more questionable. Either way, it's useful to know what goes into what you drink. Winemaking is a fascinating balance of science and chemistry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4df69c1352127f4b273a8e69eea6e46f/croprotate.jpg?cropheight=2816&cropwidth=1221&degrees=0&input=http%3A%2F%2Fwinefolly.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fwine-additives-infographic-wine-folly.jpg&x=77&y=0"></article>]]></description>
-            <link>http://winefolly.com/review/wine-additives-explained/</link>
-            <guid isPermaLink="false">4fef9b5f-b4e2-4935-a97c-ebcf3a6d9adf</guid>
-            <pubDate>Wed, 22 Jun 2016 17:27:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
