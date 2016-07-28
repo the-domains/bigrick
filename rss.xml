@@ -4,7 +4,7 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 06:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 06:27:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fabulous Napa Cab From High On Spring Mountain]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.forbes.com/sites/nickpassmore/2016/07/27/fabulous-napa-cab-from-high-on-spring-mountain/#395d1f042d8c</link>
             <guid isPermaLink="false">a4594135-4f57-40ae-a776-f9495d026dd0</guid>
             <pubDate>Thu, 28 Jul 2016 06:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supplements Can Make You Sick]]></title>
+            <description><![CDATA[<article><h1>Supplements Can Make You Sick</h1><p>Dietary supplements are not regulated the same way as medications. Consumer Reports gives you a complete guide to supplement safety.</p><img src="http://www.consumerreports.org:80/content/dam/cro/magazine-articles/2016/September/CR_Magazine_Hero_Supplements_Complete_Guide_07-16.jpg"></article>]]></description>
+            <link>http://www.consumerreports.org/vitamins-supplements/supplements-can-make-you-sick/</link>
+            <guid isPermaLink="false">bdb85041-e804-4051-b805-6be46bbb80b7</guid>
+            <pubDate>Thu, 28 Jul 2016 06:27:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Best Fast Food, Picked by the World's Top Chefs]]></title>
@@ -68,13 +75,6 @@
             <link>http://miami.cbslocal.com/2016/07/19/bourbon-boom-creates-spirits-shortage/</link>
             <guid isPermaLink="false">0f612ff6-9c24-4b7c-9279-2e78dee1786d</guid>
             <pubDate>Mon, 25 Jul 2016 02:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Make a Salty Dog, the Perfect Drink for Sweltering Days]]></title>
-            <description><![CDATA[<article><h1>How to Make a Salty Dog, the Perfect Drink for Sweltering Days</h1><p>In the early 1960s, a Massachusetts company called Ocean Spray orchestrated a marketing push to make American consumers think of cranberries beyond the Thanksgiving dinner table.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ed438ddd5bfc82eaa14c96f8f3663a8/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHx3TZ9GeHqE%2Fv0%2F-1x-1.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-07-15/salty-dog-cocktail-recipe-the-perfect-drink-for-sweltering-days?cmpid=BBD072016_PUR</link>
-            <guid isPermaLink="false">dfa00af6-1640-43bf-8369-8b0b9ee1bd4a</guid>
-            <pubDate>Wed, 20 Jul 2016 18:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
