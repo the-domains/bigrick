@@ -4,20 +4,13 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 17:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 17:28:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wine Spectator - Low Membership Price!]]></title>
             <description><![CDATA[<article><h1>Wine Spectator - Low Membership Price!</h1></article>]]></description>
             <link>http://www.winespectator.com/webfeature/show/id/Napa-All-Star-Cabernet-from-Vernon-Wells-Chris-Iannetta</link>
             <guid isPermaLink="false">d7c466df-dece-4d61-9d9d-fb874b7a0d34</guid>
-            <pubDate>Wed, 03 Aug 2016 17:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coombsville Is Coming of Age]]></title>
-            <description><![CDATA[<article><h1>Coombsville Is Coming of Age</h1><p>Recently, the Coombsville Vintners and Growers (CVG) hosted their first-ever media tasting in the sprawling new caves of the magnificent Covert Estate. This tasting marked a big step forward for the Coombsville AVA and will sharpen the focus on the newest, and for many, the most individualistic of Napa Valley's sixteen AVAs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca36de1360faba25a7473acf89513b5be1c1ac8a.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/allen-balik/coombsville-is-coming-of-_b_11260678.html</link>
-            <guid isPermaLink="false">db4622a9-4592-4dac-8016-e132516a61a5</guid>
             <pubDate>Wed, 03 Aug 2016 17:27:56 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>http://www.7x7.com/enjoy-the-sunlight-with-these-patio-wine-tasting-in-sonoma-and-napa-va-1942320251.html</link>
             <guid isPermaLink="false">ad4a1fbf-62a0-4a62-b582-2b748e2fc6a5</guid>
             <pubDate>Wed, 27 Jul 2016 22:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fifty years ago, Robert Mondavi transformed Napa Valley - and American wine]]></title>
+            <description><![CDATA[<article><h1>Fifty years ago, Robert Mondavi transformed Napa Valley - and American wine</h1><p>Fifty years ago this month, the landscape of Napa Valley changed when Robert Mondavi opened his winery along California Route 29 in Oakville. The winery's Mission-style archway quickly became an iconic symbol of California wine, and Mondavi and those who worked with him forged a revolution not only in Napa but also across the country, transforming the way Americans buy and drink wine.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/452b9a8dea7074dafe7ffc78f8806c33/noop.jpg?input=https%3A%2F%2Fimg.washingtonpost.com%2Frf%2Fimage_1484w%2F2010-2019%2FWashingtonPost%2F2016%2F07%2F19%2FProduction%2FFood%2FImages%2FRGM%2520with%2520grapes1372455781.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/lifestyle/food/fifty-years-ago-robert-mondavi-transformed-napa-valley--and-american-wine/2016/07/23/615d4a06-4de3-11e6-aa14-e0c1087f7583_story.html</link>
+            <guid isPermaLink="false">eb812406-bfcc-446a-b47d-1473ea168ae2</guid>
+            <pubDate>Tue, 26 Jul 2016 17:37:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
