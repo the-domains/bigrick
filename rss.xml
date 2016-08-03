@@ -4,15 +4,8 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 17:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 17:28:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Wine Spectator - Low Membership Price!]]></title>
-            <description><![CDATA[<article><h1>Wine Spectator - Low Membership Price!</h1></article>]]></description>
-            <link>http://www.winespectator.com/webfeature/show/id/Napa-All-Star-Cabernet-from-Vernon-Wells-Chris-Iannetta</link>
-            <guid isPermaLink="false">d7c466df-dece-4d61-9d9d-fb874b7a0d34</guid>
-            <pubDate>Wed, 03 Aug 2016 17:27:56 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Wine Spectator - Low Membership Price!]]></title>
             <description><![CDATA[<article><h1>Wine Spectator - Low Membership Price!</h1></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.washingtonpost.com/lifestyle/food/fifty-years-ago-robert-mondavi-transformed-napa-valley--and-american-wine/2016/07/23/615d4a06-4de3-11e6-aa14-e0c1087f7583_story.html</link>
             <guid isPermaLink="false">eb812406-bfcc-446a-b47d-1473ea168ae2</guid>
             <pubDate>Tue, 26 Jul 2016 17:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top ranked Napa Valley chardonnays]]></title>
+            <description><![CDATA[<article><h1>Top ranked Napa Valley chardonnays</h1><p>There is no mistaking a chardonnay for a gewürztraminer, a torrontes, or a muscat. The perfumed fruits of the latter three wines surround you before you even get your nose in the glass. These, as well as riesling, sauvignon blanc and countless others, are aromatic grape varieties; or what can be called your Type A grapes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/deaf5f9efa9731dd798473cb0249d5b9/noop.jpg?input=http%3A%2F%2Fbloximages.chicago2.vip.townnews.com%2Fnapavalleyregister.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F7%2Fda%2F7daf3fcd-94ea-5244-8e53-f5219a3f8f64%2F5791255d11e1c.image.jpg%3Fcrop%3D610%252C343%252C612%252C372%26resize%3D610%252C343%26order%3Dcrop%252Cresize"></article>]]></description>
+            <link>http://napavalleyregister.com/star/lifestyles/top-ranked-napa-valley-chardonnays/article_9e5cf1c4-ad3d-577b-bf68-4ddb66cc3f26.html</link>
+            <guid isPermaLink="false">f4b71d1d-c8d3-4941-bdd6-5c124ed34bd1</guid>
+            <pubDate>Mon, 25 Jul 2016 02:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
