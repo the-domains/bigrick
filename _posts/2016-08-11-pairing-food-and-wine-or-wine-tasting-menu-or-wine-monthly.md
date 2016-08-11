@@ -16,13 +16,15 @@ keywords:
   - gift
   - estate
 description: Twin Pine Moore Family Wine Pairing Dinner Friday August 26th
-datePublished: '2016-08-11T23:41:39.192Z'
-dateModified: '2016-08-11T23:41:26.559Z'
+datePublished: '2016-08-11T23:46:11.491Z'
+dateModified: '2016-08-11T23:45:31.020Z'
 author: []
 related: []
 app_links: []
 title: Pairing Food and Wine | Wine Tasting Menu | Wine Monthly
 via: {}
+sourcePath: >-
+  _posts/2016-08-11-pairing-food-and-wine-or-wine-tasting-menu-or-wine-monthly.md
 authors: []
 publisher:
   name: Twinpine
@@ -30,8 +32,6 @@ publisher:
   url: 'http://www.twinpine.com'
   favicon: 'http://www.twinpine.com/wp-content/themes/Ken_Knecht/images/favicon.ico'
 starred: true
-sourcePath: >-
-  _posts/2016-08-11-pairing-food-and-wine-or-wine-tasting-menu-or-wine-monthly.md
 _context: 'http://schema.org'
 _type: MediaObject
 
