@@ -4,8 +4,15 @@
         <description><![CDATA[Hardly Strictly Wine Blog]]></description>
         <link>https://thegrid.ai/bigrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 15:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 23:08:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scientists Deploy Seismographs in Napa Valley]]></title>
+            <description><![CDATA[<article><h1>Scientists Deploy Seismographs in Napa Valley</h1><p>As the second anniversary of the August 24, 2014 South Napa earthquake approaches, U.S. Geological Survey scientists and volunteers, along with faculty and students from California State University, East Bay are planning an experiment to visualize the subsurface in and around the City of Napa and measure how the ground responds to earthquake shaking in different neighborhoods.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/08ff6f87e46e5ac382a977332648e1d3/noop.jpg?input=https%3A%2F%2Fprd-wret.s3-us-west-2.amazonaws.com%2Fassets%2Fpalladium%2Fproduction%2Fs3fs-public%2Fstyles%2Ffull_width%2Fpublic%2Fthumbnails%2Fimage%2FNapa%25202016%2520Seismic%2520Profiles.jpg%3Fitok%3DfTbJHd20"></article>]]></description>
+            <link>https://www.usgs.gov/news/scientists-deploy-seismographs-napa-valley</link>
+            <guid isPermaLink="false">08a654c2-9c1e-480a-b7be-913e3bd9ef50</guid>
+            <pubDate>Thu, 11 Aug 2016 23:08:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ask A Somm: Which Wines Pair Best With Pizza?]]></title>
             <description><![CDATA[<article><h1>Ask A Somm: Which Wines Pair Best With Pizza?</h1><p>Considered one of San Francisco's essential restaurants, Tony's Pizza Napoletana is a multi-faceted pizza operation that fires up myriad of pie styles, from Detroit to Sicilian to coal-fired. With its wide range of pizzas and toppings, wine director Juli Gregg pairs mostly Italian and California-sourced juice, much of which is based on the tomato-friendly sangiovese grape.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/92be5880361144fe7076746e74d47e62/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2F9U_WT49r4aP9sDXmIkOc_65lefs%3D%2F0x47%3A1000x610%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50294985%2Fshutterstock_99731117.0.0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Restoration Hardware CEO Lists Napa Valley Home for $10.5 Million</h1><p>Could Restoration Hardware, the luxury furnishings retailer known for pitching African mud cloth throws and Venetian beaded mirrors, someday get into the business of selling luxury homes themselves? There's been a first foray: the St. Helena, Calif. home of company chief Gary Friedman, which is on the market for $10.5 million.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5943ab2d007ea8cf8b836021daac31c3/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-PG377_FRIEDM_G_20160804175440.jpg"></article>]]></description>
             <link>http://www.wsj.com/articles/restoration-hardware-ceo-lists-napa-valley-home-for-10-5-million-1470409461</link>
             <guid isPermaLink="false">99d4e40f-5ace-49b6-9308-4b27fc133424</guid>
-            <pubDate>Sat, 06 Aug 2016 06:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jet-Set Bohemian: Haute Dining at Sea]]></title>
-            <description><![CDATA[<article><h1>Jet-Set Bohemian: Haute Dining at Sea</h1><p>Long gone are the days when you can stick your nose up at the mere mention of cruise food. Ships are bringing in some of the world's top starred chefs to open floating restaurants at sea that can be just as tough to snag a reservation for as their land-locked counterparts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4fe15615e040c9433af9547856eba65a/noop.jpg?input=https%3A%2F%2Fcdn.pastemagazine.com%2Fwww%2Farticles%2FCrystal%2520Cruises%2520Nobu%2520Miso%2520.jpg"></article>]]></description>
-            <link>https://www.pastemagazine.com/articles/2016/07/jet-set-bohemian-haute-dining-at-sea.html</link>
-            <guid isPermaLink="false">1d4d349c-0202-430d-8ba7-c14f3bbdae17</guid>
             <pubDate>Sat, 06 Aug 2016 06:37:05 GMT</pubDate>
         </item>
     </channel>
