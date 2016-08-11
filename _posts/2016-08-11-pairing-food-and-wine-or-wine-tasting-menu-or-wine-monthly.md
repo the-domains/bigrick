@@ -15,9 +15,9 @@ keywords:
   - bottle
   - gift
   - estate
-description: Twin Pine Moore Family Wine Pairing Dinner Friday August 26th
-datePublished: '2016-08-11T23:46:11.491Z'
-dateModified: '2016-08-11T23:45:31.020Z'
+description: Twin Pine Casino Moore Family Wine Pairing Dinner Friday August 26th
+datePublished: '2016-08-11T23:48:31.657Z'
+dateModified: '2016-08-11T23:47:19.669Z'
 author: []
 related: []
 app_links: []
@@ -36,6 +36,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Twin Pine Moore Family Wine Pairing Dinner Friday August 26th
+Twin Pine Casino Moore Family Wine Pairing Dinner Friday August 26th
 
 <article style=""><h1>Pairing Food and Wine | Wine Tasting Menu | Wine Monthly</h1><p>Special discounted gift shop pricing and Meet &amp; Greet wine tasting at our Napa area hotel. The best wineries in Napa and the best wine of the month are featured by the glass, bottle, and in a pairing of food and wine on a wine tasting menu in the Manzanita Restaurant and the Grapevine Bar &amp; Lounge.</p><img src="http://www.twinpine.com/wp-content/themes/Ken_Knecht/images/bgimg.jpg" /></article>
