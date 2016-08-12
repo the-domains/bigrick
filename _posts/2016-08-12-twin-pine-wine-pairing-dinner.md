@@ -5,17 +5,19 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Twin Pine Wine Pairing Dinner
-datePublished: '2016-08-12T00:24:40.001Z'
-dateModified: '2016-08-12T00:24:20.600Z'
+datePublished: '2016-08-12T00:28:20.584Z'
+dateModified: '2016-08-12T00:24:43.741Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-12-twin-pine-wine-pairing-dinner.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: true
 url: twin-pine-wine-pairing-dinner/index.html
