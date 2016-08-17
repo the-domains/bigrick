@@ -7,20 +7,16 @@ keywords: []
 description: >-
   from Napa Valley Vintners Thanks to a week of warm (but not hot) days and
   cool, crisp nights, the harvest pace is picking up.
-datePublished: '2016-08-17T03:44:57.902Z'
-dateModified: '2016-08-17T03:44:48.906Z'
+datePublished: '2016-08-17T19:49:09.749Z'
+dateModified: '2016-08-17T19:40:23.386Z'
 title: ''
 author: []
 via: {}
 sourcePath: >-
   _posts/2016-08-17-from-napa-valley-vintners-thanks-to-a-week-of-warm-but-not.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: {}
+starred: true
 url: from-napa-valley-vintners-thanks-to-a-week-of-warm-but-not/index.html
 _type: Article
 
