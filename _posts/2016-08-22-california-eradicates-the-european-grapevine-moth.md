@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://westernfarmpress.com/grapes/california-eradicates-european-grapevine-moth
 title: California eradicates the European grapevine moth
-datePublished: '2016-08-22T15:49:54.320Z'
-dateModified: '2016-08-19T19:10:13.505Z'
+datePublished: '2016-08-22T16:00:45.572Z'
+dateModified: '2016-08-19T19:09:14.829Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-22-california-eradicates-the-european-grapevine-moth.md
