@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 99.3 The Vine Napa's Sauvignon Rock
+    url: 'http://www.993thevine.com'
+    type: external
 favicon: null
 title: Hardly Strictly Wine Blog
 description: from 99.3 The Vine Napa
