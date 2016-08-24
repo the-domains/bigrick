@@ -1,20 +1,4 @@
-name: Big Rick Stuart
-favicon: null
-layout_spectrum: 0.24169
 typography_spectrum: 0.6612805670592934
-title: Hardly Strictly Wine Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73569106-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#201c1e'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24169
+analytics:
+  google: UA-73569106-1
+  facebook: null
+  twitter: null
+name: Big Rick Stuart
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Hardly Strictly Wine Blog
+description: from 99.3 The Vine Napa
 purpose: []
