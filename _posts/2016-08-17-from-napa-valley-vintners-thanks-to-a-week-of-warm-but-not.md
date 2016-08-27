@@ -1,21 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: >-
-  from Napa Valley Vintners Thanks to a week of warm (but not hot) days and
-  cool, crisp nights, the harvest pace is picking up.
-datePublished: '2016-08-17T19:49:09.749Z'
-dateModified: '2016-08-17T19:40:23.386Z'
-title: ''
-author: []
-via: {}
+datePublished: '2016-08-26T20:27:28.741Z'
 sourcePath: >-
   _posts/2016-08-17-from-napa-valley-vintners-thanks-to-a-week-of-warm-but-not.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-26T20:27:27.295Z'
+title: ''
 publisher: {}
+description: >-
+  Harvest Update from Napa Valley Vintners 8/25/2016 – The pace is picking up,
+  with a variety of Napa Valley white wine grapes now hitting the crush pad:
+  Sauvignon Blanc, Semillon, Pinot Grigio and even some Chardonnay.
+inLanguage: null
+inNav: false
 starred: true
 url: from-napa-valley-vintners-thanks-to-a-week-of-warm-but-not/index.html
 _type: Article
@@ -23,16 +26,12 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c66e7962-af74-4128-8a30-174670bb0588.jpg)
 
-[from Napa Valley Vintners][0] Thanks to a week of warm (but not hot) days and cool, crisp nights, the harvest pace is picking up.
+[Harvest Update from Napa Valley Vintners][0] 8/25/2016 -- The pace is picking up, with a variety of Napa Valley white wine grapes now hitting the crush pad: Sauvignon Blanc, Semillon, Pinot Grigio and even some Chardonnay.
 
-We'd hate to jinx it, but the weather has been PERFECT for developing grape ripeness balanced with acidity, thanks to big swings between daytime and nighttime temperatures.
+Winemaking crews are getting busier, but they are happy and smiling because the quality of this year's harvest is truly exceptional so far. Yields are also looking good -- not record breaking, but definitely more abundant that last year's light crop.
 
-Up and down Napa Valley, first bins of Sauvignon Blanc and Pinot Noir grapes are arriving at crush pads being blessed and celebrated with splashes of sparkling wine.
+Bright lights can be seen overnight, up and down the valley, as vineyard crews pick grapes during this coolest part of the day.
 
-In the vineyard, clusters of Cabernet Sauvignon are making the steady transition from green to pink and soon to purple.
-
-Winemakers are walking the vineyards, sampling grapes and ensuring each vine is getting the perfect amount of sun and shade.
-
-In just a couple of weeks, we'll really be in the thick harvest 2016\.
+There are many benefits to picking at night: more comfortable conditions for workers, grapes arrive at proper temperature to begin fermentation (ideally around 55 degrees) and wineries save energy because the grapes don't need to be chilled before they are crushed.
 
 [0]: https://napavintners.com/harvest2016/
