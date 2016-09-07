@@ -25,10 +25,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://www.northbaybusinessjournal.com/industrynews/5907950-181/napa-valley-wine-margrit-mondavi-obit?ref=most
+  http://www.northbaybusinessjournal.com/industrynews/5907950-181/napa-valley-wine-margrit-mondavi-obit
 title: 'Margrit Mondavi, icon of Napa Valley wine culture, dies at 91'
-datePublished: '2016-09-03T05:53:40.297Z'
-dateModified: '2016-09-03T05:53:12.926Z'
+datePublished: '2016-09-03T06:16:02.479Z'
+dateModified: '2016-09-03T06:12:57.494Z'
 via: {}
 starred: false
 sourcePath: >-
