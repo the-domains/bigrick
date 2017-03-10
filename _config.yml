@@ -1,25 +1,31 @@
-typography_spectrum: 0.6612805670592934
+typography_spectrum: 0.522083232877776
 color:
   brandColors:
-    - '#201c1e'
-    - '#505483'
-    - '#ffffff'
-    - '#8a8989'
-    - '#23ad51'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  brandStrength: 0.16730519570410252
+  lightness: 0.5150991254486144
+  saturation: 0.13571509579196572
+  rhythmicContrast: 0.023124723695218563
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.24169
+layout_spectrum: 0.2708090110681951
 analytics:
   google: UA-73569106-1
   facebook: null
   twitter: null
-name: Big Rick Stuart
+author:
+  name: Big Rick
+  email: rick@KVYN.com
+  url: 'http://www.993thevine.com/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/deca59fd-264e-430f-a765-16ed607dc546.png
+name: Hardly Strictly Wine Blog
 cta:
   domain: null
   bucket: null
@@ -29,6 +35,11 @@ navigation:
     url: 'http://www.993thevine.com'
     type: external
 favicon: null
-title: Hardly Strictly Wine Blog
-description: from 99.3 The Vine Napa
-purpose: []
+title: 99.3 The Vine Hardly Strictly Wine Blog
+content: []
+description: wine food travel Napa and more
+purpose:
+  - type: contact
+    url: 'mailto:rick@kvyn.com'
+    label: email
+github: true
